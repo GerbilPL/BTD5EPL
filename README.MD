@@ -10,7 +10,8 @@ FAQ:
 2. (EXPANSION 12) Make backup of English.xml in your Loc directory (Main Bloons directory -> Assets -> Loc).
 3. (EXPANSION 12) Delete English.xml.
 4. (EXPANSION 12) Copy downloaded English.xml to Loc directory or go to main bloons directory and just move whole assets folder from zip file.
-** Please note that in the future (Expansion 13), the polish language will be fully included to base mod. **
+
+**Please note that in the future (Expansion 13), the polish language will be fully included to base mod.**
 
 > Why it doesn`t work?
 
@@ -27,7 +28,7 @@ If you want to help me with translation, just check progress in main branch and 
 
 If you want to see what guidelines I follow, check the [Editing.md](docs/Editing.md) file.
  
- **If you have any other questions, ask them in GitHub Discussions or in Discord, via server ping or pm.**
+**If you have any other questions, ask them in GitHub Discussions or in Discord, via server ping or pm.**
  
 # PL: Bloons Tower Defence 5 Expansion - Pliki Polskiego Tłumaczenia
 To jest tymczasowe(?) repozytorium dla Plików Polskiego Tłumaczenia BTD5E.
@@ -40,7 +41,8 @@ FAQ:
 2. (EXPANSION 12) Zrób kopię zapasową pliku English.xml w twoim folderze Loc (Główny katalog Bloons -> Assets -> Loc).
 3. (EXPANSION 12) Usuń English.xml.
 4. (EXPANSION 12) Skopiuj pobrany English.xml do katalogu Loc, albo powróć do głównego katalogu i przenieś cały folder Assets z pliku zip.
-** Ważne: W przyszłości (Expansion 13) język polski będzie w całości dostępny bezpośrednio w modyfikacji. **
+
+**Ważne: W przyszłości (Expansion 13) język polski będzie w całości dostępny bezpośrednio w modyfikacji.**
 
 > Dlaczego nie działa?
 
