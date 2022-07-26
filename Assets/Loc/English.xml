@@ -4285,7 +4285,6 @@ Jeśli już tego nie zrobiłeś, dołącz do mojego serwera Discord aby sprawdza
 	
 	<!-- Added Maps -->
 	<T id="LOC_MAP_haunted_culdesac" l="0">NAWIEDZONY ZAUŁEK</T>
-	
 	<T id="LOC_MAP_monkey_town" l="0">MAŁPIA WIOSKA</T>
 	<T id="LOC_MAP_no_escape_track" l="0">BRAK UCIECZKI</T>
 	<T id="LOC_MAP_river" l="0">RZEKA</T>
@@ -4663,12 +4662,9 @@ Jeśli już tego nie zrobiłeś, dołącz do mojego serwera Discord aby sprawdza
     <T id="LOC_DAILYQUEST_DESC_StickyGlue" l="0">Popuj 1000 bloonów używając Strzelca Kleju</T>
     <T id="LOC_DAILYQUEST_DESC_thebigshred" l="0">Popuj 100 bloonów klasy MOAB używając Bloonorębarki</T>
     <T id="LOC_DAILYQUEST_DESC_stunGun" l="0">Popuj 100 MOAB-class bloons with 4-X Sniper Monkeys</T>
-
     <T id="LOC_DAILYQUEST_NAME_apexpower" l="0">Apex Power Achieved</T>
     <T id="LOC_DAILYQUEST_DESC_apexpower" l="0">Popuj 1 million Bloonów przy użyciu 2-2 lub lepszych Bloonsday Devices</T>
-
     <T id="LOC_DAILYQUEST_NAME_monkeygearsolid" l="0">Monkey Gear Solid</T>
-
     <T id="LOC_DAILYQUEST_NAME_notsoforgotten" l="0">Nie Tak Zapomniane</T>
 	
 	<!-- Added Hints -->
@@ -4682,9 +4678,9 @@ Jeśli już tego nie zrobiłeś, dołącz do mojego serwera Discord aby sprawdza
 	
 	<!--
 	Translation: GerbilPL
-	BTD5 Expansion 12 & BTD5 3.35
+	BTD5 Expansion 12 & BTD5 3.37
 
-	"Get a life, neeeerd" - GerbilPL
+	"Get a life, neeeerd"
 	-->
 	
 </Language>
