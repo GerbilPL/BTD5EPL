@@ -1,0 +1,26 @@
+# TODO
+ - [ ] Main menu
+   - [x] Premium Store
+   - [x] Settings
+   - [ ] Buildings
+   - [x] Chest
+   - [ ] Mailman
+   - [ ] BTD5 Sign
+     - [x] Expansion
+     - [ ] Vanilla
+   - [x] Lab
+   - [x] Temple
+     -  Random missions (**No**)
+   - Achievements (idk wont do)
+- [x] Maps
+- [ ] Events like Bloonvasion and quests
+- [ ] In Game
+  - [x] Tower names
+  - [ ] Upgrade names
+  - [ ] Tower Desc
+  - [ ] Upgrade Desc
+  - [ ] Special Agents
+  - [ ] Hints
+  - [ ] Tips on game over
+  - [ ] Tips
+  - [x] Co-pop things
