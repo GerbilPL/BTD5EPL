@@ -1,4 +1,4 @@
-[Polish section](docs/Editing.md#pl-pomoc-w-tłumaczeniu)
+[Polish section](Editing.md#pl-pomoc-w-tłumaczeniu)
 # ENG: Helping with translation
 Do you want to help me translate? Or maybe you want to watch how I do it. I will describe it well here.
 > Editors
