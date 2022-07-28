@@ -2,6 +2,7 @@
 # ENG: Bloons Tower Defence 5 Expansion - Polish Translation Files
 This is a temporary(?) repository for BTD5E Polish Translation Files.
 BTD5 Expansion is a mod made by 5h3i1ah. Discord server **5h3i1ah's BTD5 Modding Server** with mod download can be accessed [here](https://discord.gg/WSFfYCY6zQ).
+Font artwork credits go to 5h3i1ah, as I don`t have good art skills.
 
 FAQ:
 > How to install this Polish mess of a language?
@@ -33,6 +34,7 @@ If you want to see what guidelines I follow, check the [Editing.md](docs/Editing
 # PL: Bloons Tower Defence 5 Expansion - Pliki Polskiego Tłumaczenia
 To jest tymczasowe(?) repozytorium dla Plików Polskiego Tłumaczenia BTD5E.
 BTD5 Expansion to modyfikacja stworzona przez 5h3i1ah. Serwer Discord **5h3i1ah's BTD5 Modding Server** z możliwością pobrania modyfikacji jest dostępny [tutaj](https://discord.gg/WSFfYCY6zQ).
+Uznanie dla 5h3i1ah za grafikę czcionek, ponieważ osobiście nie mam dobrych umiejętności artystycznych.
 
 FAQ:
 > Jak zainstalować Polski język do modyfikacji?
