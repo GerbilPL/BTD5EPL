@@ -118,7 +118,7 @@ Both tracks are also available for Co-Pop play!</T>
 	<T id="LOC_HELP_TowerInfo_DESC_NoIAP" l="0">Każda wieża ma 2 ścieżki ulepszeń, które zapewniają szereg potężnych ulepszeń i umiejętności. Ten ekran umożliwia przeglądanie ulepszeń dla każdej wieży i sprawdzanie, ile PD jest wymagane do ich odblokowania.</T>
 	<T id="LOC_HELP_Specs" l="0">SPECJALNE BUDYNKI</T>
 	<T id="LOC_HELP_Specs_DESC" l="0">Kup ziemię, aby uzyskać dostęp do fajnych budynków specjalnych, które ulepszają każdą wieżę. Możesz mieć aktywny tylko jeden budynek na raz, ale każdy budynek zapewnia 3 główne ulepszenia i dodatkowe specjalne ulepszenie czwartego poziomu.</T>
-	<T id="LOC_HELP_Abilities" l="0">DEPLOYMENT BAR</T>
+	<T id="LOC_HELP_Abilities" l="0">PASEK WDRAŻANIA</T>
 	<T id="LOC_HELP_Abilities_DESC" l="0">To jest pasek wdrażania agentów i zdolności. Stąd możesz przeciągać Agentów na pole bitwy, tak jak zwykłe wieże.\n\nZdolności są nieco inne. Gdy odblokujesz zdolność, zostanie ona dodana do paska wdrażania i po prostu dotknij ikony, aby ją aktywować. Umiejętność wtedy zacznie się odnawiać i nie będzie można jej ponownie aktywować, dopóki licznik czasu się nie zresetuje.</T>
 	
 	<T id="LOC_HELP_SaveVersion" l="0">Aktualizuj</T>
@@ -588,9 +588,9 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_WEEKLYLB_Friends" l="0">Przyjaciele</T>
     <T id="LOC_WEEKLYLB_Help_Title" l="0">Cotygodniowe Tabice Wyników</T>
     <T id="LOC_WEEKLYLB_Help_Desc" l="0">Postaraj się uzyskać jak najwyższy wynik w tygodniowym zadaniu, aby zdobyć miejsce w światowych rankingach. Pod koniec każdego tygodnia otrzymasz fantastyczną nagrodę w zależności od Twojej rangi. Możesz także rywalizować ze znajomymi, aby zobaczyć, który z was jest najlepszym popperem bloonów. Aby rywalizować w cotygodniowych tabelach wyników, musisz być zalogowany na Facebooku.</T>
-    <T id="LOC_WEEKLYLB_Requirements" l="0">Pop %1$s on %2$s tracks</T>  <!--@ e.g. Pop Red Bloons on Beginner tracks -->
-    <T id="LOC_WEEKLYLB_Requirements_All_Bloons" l="0">all bloons</T>        <!--@  used in  %1$s in LOC_WEEKLYLB_Requirements -->
-    <T id="LOC_WEEKLYLB_Requirements_All" l="0">all</T>                 <!--@ used in  %2$s in LOC_WEEKLYLB_Requirements-->
+    <T id="LOC_WEEKLYLB_Requirements" l="0">Popuj %1$s na %2$s torach</T>  <!--@ e.g. Pop Red Bloons on Beginner tracks -->
+    <T id="LOC_WEEKLYLB_Requirements_All_Bloons" l="0">wszystkie bloony</T>        <!--@  used in  %1$s in LOC_WEEKLYLB_Requirements -->
+    <T id="LOC_WEEKLYLB_Requirements_All" l="0">wszystkich</T>                 <!--@ used in  %2$s in LOC_WEEKLYLB_Requirements-->
     <T id="LOC_WEEKLYLB_GetRewards" l="0">Gratulacje! Zająłeś %s miejsce w cotygodniowej tabeli liderów i wygrałeś nagrodę!</T>  <!--@ %s will be replaced with Gold/Silver/Bronze/Impoppable -->
     <T id="LOC_WEEKLYLB_Reward_Title" l="0">NAGRODY</T>
     <T id="LOC_WEEKLYLB_Reward_Desc" l="0">Wspinaj się w tabeli wyników, aby zdobywać lepsze nagrody!</T>
@@ -772,7 +772,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_MonkeyBuccaneer_TOWER" l="0">Małpi Pirat</T>
 	<T id="LOC_MonkeyAce_TOWER" l="0">Małpi As</T>
 	<T id="LOC_SuperMonkey_TOWER" l="0">Super Małpa</T>
-	<T id="LOC_MonkeyApprentice_TOWER" l="0">Małpia Czarownica</T>
+	<T id="LOC_MonkeyApprentice_TOWER" l="0">Małpia Czarodziejka</T>
 	<T id="LOC_MonkeyVillage_TOWER" l="0">Małpia Wioska</T>
 	<T id="LOC_BananaFarm_TOWER" l="0">Farma Bananów</T>
 	<T id="LOC_MortarTower_TOWER" l="0">Moździerz</T>
@@ -830,7 +830,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_MonkeyBuccaneer_TOWER_PLURAL" l="0">Małpi Piraci</T>
     <T id="LOC_MonkeyAce_TOWER_PLURAL" l="0">Małpi Asi</T>
     <T id="LOC_SuperMonkey_TOWER_PLURAL" l="0">Super Małpy</T>
-    <T id="LOC_MonkeyApprentice_TOWER_PLURAL" l="0">Małpie Czarownice</T>
+    <T id="LOC_MonkeyApprentice_TOWER_PLURAL" l="0">Małpie Czarodziejki</T>
     <T id="LOC_MonkeyVillage_TOWER_PLURAL" l="0">Małpie Wioski</T>
     <T id="LOC_BananaFarm_TOWER_PLURAL" l="0">Farmy Bananów</T>
     <T id="LOC_MortarTower_TOWER_PLURAL" l="0">Moździerze</T>
@@ -889,7 +889,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_MonkeyBuccaneer_TOWER_CAPS" l="0">MAŁPI PIRAT</T>
 	<T id="LOC_MonkeyAce_TOWER_CAPS" l="0">MAŁPI AS</T>
 	<T id="LOC_SuperMonkey_TOWER_CAPS" l="0">SUPER MAŁPA</T>
-	<T id="LOC_MonkeyApprentice_TOWER_CAPS" l="0">MAŁPIA CZAROWNICA</T>
+	<T id="LOC_MonkeyApprentice_TOWER_CAPS" l="0">MAŁPIA CZARODZIEJKI</T>
 	<T id="LOC_MonkeyVillage_TOWER_CAPS" l="0">MAŁPIA WIOSKA</T>
 	<T id="LOC_BananaFarm_TOWER_CAPS" l="0">FARMA BANANÓW</T>
 	<T id="LOC_MortarTower_TOWER_CAPS" l="0">MOŹDZIERZ</T>
@@ -1093,7 +1093,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_UPGRADE_A3_MonkeyApprentice" l="0">Summon Whirlwind</T>
 	<T id="LOC_UPGRADE_A4_MonkeyApprentice" l="0">Tempest Tornado</T>
 	<T id="LOC_UPGRADE_B1_MonkeyApprentice" l="0">Fireball</T>
-	<T id="LOC_UPGRADE_B2_MonkeyApprentice" l="0">Monkey Sense</T>
+	<T id="LOC_UPGRADE_B2_MonkeyApprentice" l="0">Małpi Zmysł</T>
 	<T id="LOC_UPGRADE_B3_MonkeyApprentice" l="0">Dragon's Breath</T>
 	<T id="LOC_UPGRADE_B4_MonkeyApprentice" l="0">Summon Phoenix</T>
 	
@@ -1103,7 +1103,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_UPGRADE_A4_MonkeyBuccaneer" l="0">Aircraft Carrier</T>
 	<T id="LOC_UPGRADE_B1_MonkeyBuccaneer" l="0">Grape Shot</T>
 	<T id="LOC_UPGRADE_B2_MonkeyBuccaneer" l="0">Crows Nest</T>
-	<T id="LOC_UPGRADE_B3_MonkeyBuccaneer" l="0">Cannon Ship</T>
+	<T id="LOC_UPGRADE_B3_MonkeyBuccaneer" l="0">Statek Armatni</T>
 	<T id="LOC_UPGRADE_B4_MonkeyBuccaneer" l="0">Monkey Pirates</T>
 
 	<T id="LOC_UPGRADE_A1_MonkeyEngineer" l="0">Sentry Gun</T>
@@ -1166,7 +1166,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_UPGRADE_A4_NinjaMonkey" l="0">Bloonjitsu</T>
 	<T id="LOC_UPGRADE_B1_NinjaMonkey" l="0">Seeking Shuriken</T>
 	<T id="LOC_UPGRADE_B2_NinjaMonkey" l="0">Distraction</T>
-	<T id="LOC_UPGRADE_B3_NinjaMonkey" l="0">Flash Bomb</T>
+	<T id="LOC_UPGRADE_B3_NinjaMonkey" l="0">Bomby Błyskowe</T>
 	<T id="LOC_UPGRADE_B4_NinjaMonkey" l="0">Sabotage Supply Lines</T>
 
 	<T id="LOC_UPGRADE_A1_SniperMonkey" l="0">Full Metal Jacket</T>
@@ -1690,13 +1690,13 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 
 
     <T id="LOC_PREM_TITLE_MedievalDartMonkey" l="0">Średniowieczne Skórki</T>
-    <T id="LOC_PREM_DESC_MedievalDartMonkey" l="0">Małpka Rzutkowa i Katapulta zakładają pełną średniowieczną zbroję. Tylko zmiana wizualna.\n\nW tej ofercie:\nŚredniowieczna Małpka Rzutkowa &mp; Katapulta</T>
+    <T id="LOC_PREM_DESC_MedievalDartMonkey" l="0">Małpka Rzutkowa i Katapulta zakładają pełną średniowieczną zbroję. Tylko zmiana wizualna.\n\nW tej ofercie:\nŚredniowieczna Małpka Rzutkowa &amp; Katapulta</T>
 	<T id="LOC_PREM_TITLE_HalloweenDartMonkey" l="0">Halloweenowe Skórki</T>
     <T id="LOC_PREM_DESC_HalloweenDartMonkey" l="0">Małpka Rzutkowa i Katapulta stały się straszniejsze! Tylko zmiana wizualna.\n\nW tej ofercie:\nHalloweenowa Małpka, Szkiele-pulta</T>
     <T id="LOC_PREM_TITLE_SamuraiNinjaMonkey" l="0">Skórka Małpiego Samuraja</T>
     <T id="LOC_PREM_DESC_SamuraiNinjaMonkey" l="0">Małpia Ninja i jego ulepszenia podążają drogą samurajów. Tylko zmiana wizualna.</T>
-    <T id="LOC_PREM_TITLE_SorcererMonkeyApprentice" l="0">Skórka Małpiego Czarodzieja</T>
-    <T id="LOC_PREM_DESC_SorcererMonkeyApprentice" l="0">Małpia Czarownica i jego ulepszenia otrzymują mistyczną metamorfozę. Tylko zmiana wizualna.</T>
+    <T id="LOC_PREM_TITLE_SorcererMonkeyApprentice" l="0">Skórka Małpiej Czarodziejki</T>
+    <T id="LOC_PREM_DESC_SorcererMonkeyApprentice" l="0">Małpia Czarodziejka i jej ulepszenia otrzymują mistyczną metamorfozę. Tylko zmiana wizualna.</T>
     <T id="LOC_PREM_TITLE_MilitaryBombTower" l="0">Skórka Militarnego Działa</T>
     <T id="LOC_PREM_DESC_MilitaryBombTower" l="0">Strzelacz Bomb i jego ulepszenia otrzymują sprzęt wojskowy. Tylko zmiana wizualna.</T>
 	
@@ -1745,45 +1745,45 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_HINT_0_Sandbox" l="0">Tryb Piaskownicy pozwala ci przetestować różne wieże, taktyki i wszystko to co chcesz w otwartym i fajnym środowisku.</T>
 	
 	<T id="LOC_HINT_1" l="0">Bułka z masłem.</T>
-	<T id="LOC_HINT_2" l="0">Have fun unlocking all of the new tower upgrades and discovering what they do.</T>
-	<T id="LOC_HINT_3" l="0">Besides having more layers, the different colored bloons also move faster.</T>
-	<T id="LOC_HINT_4" l="0">Keep playing Bloons TD 5 regularly and check for new updates - tracks, towers, missions and other awesomeness.</T>
-	<T id="LOC_HINT_5" l="0">First Green Bloons are coming next round.</T>
-	<T id="LOC_HINT_6" l="0">The more you use a certain tower, the more upgrades you will unlock for it.</T>
-	<T id="LOC_HINT_7" l="0">Each tower has 2 upgrade paths, but you can only get extra special 3rd and 4th upgrades on one of the paths.</T>
-	<T id="LOC_HINT_8" l="0">The bloons will now get trickier, coming in tight bunches to break through or relying on sheer numbers.</T>
-	<T id="LOC_HINT_9" l="0">Coming up next are some Blue Bloons, then some more, then some more, then some more.</T>
-	<T id="LOC_HINT_10" l="0">Good old Yellow Bloons. Quite fast, quite big, and quite dangerous.</T>
-	<T id="LOC_HINT_11" l="0">Have you got your exits covered?</T>
-	<T id="LOC_HINT_12" l="0">If you have not played more Ninja Kiwi games, you should - because those games are fun, and fun is good.</T>
-	<T id="LOC_HINT_13" l="0">Once you unlock a new tower, it will be unlocked permanently.</T>
-	<T id="LOC_HINT_14" l="0">Use more towers of a certain kind to unlock its upgrades faster.</T>
-	<T id="LOC_HINT_17" l="0">Have some free money with 80 greens coming up next.</T>
-	<T id="LOC_HINT_21" l="0">White bloons incoming. Immune to freezination.</T>
-	<T id="LOC_HINT_24" l="0">That was just one Camo Bloon. Try road spikes if your towers missed it. There will be more soon so prepare!</T>
-	<T id="LOC_HINT_27" l="0">Leads are slow and easily dealt with if you have the right towers but sharp things just don't scratch 'em.</T>
-	<T id="LOC_HINT_32" l="0">Next round there are lots of Camo Bloons - consider the way of the Ninja Monkey.</T>
-	<T id="LOC_HINT_34" l="0">Rainbow bloons, pretty fast, pretty mean and pretty pretty. They're rainbows after all, right?</T>
-	<T id="LOC_HINT_35" l="0">Beware round 42...</T>
-	<T id="LOC_HINT_38" l="0">More Camo Bloons. Very soon. You have been warned.</T>
-	<T id="LOC_HINT_41" l="0">Next round separates the strong from the weak. Camo detection and fast damage for Regrowers.</T>
-	<T id="LOC_HINT_46" l="0">Building up a bit of nest egg are we? Think carefully about what to spend it on - money for pops gets tighter.</T>
-	<T id="LOC_HINT_48" l="0">Got any Super Monkeys yet?</T>
-	<T id="LOC_HINT_51" l="0">Ok, let's ramp things up a bit shall we?</T>
-	<T id="LOC_HINT_55" l="0">Somewhere, over the Rainbows...</T>
-	<T id="LOC_HINT_58" l="0">Camo + Lead inbound.</T>
+	<T id="LOC_HINT_2" l="0">Baw się, odblokowując wszystkie nowe ulepszenia wieży i odkrywając, co robią.</T>
+	<T id="LOC_HINT_3" l="0">Oprócz tego, że mają więcej warstw, różnokolorowe bloony poruszają się szybciej.</T>
+	<T id="LOC_HINT_4" l="0">Graj regularnie w Bloons TD 5 i sprawdzaj nowe aktualizacje - tory, wieże, misje i inne niesamowitości.</T>
+	<T id="LOC_HINT_5" l="0">Pierwsze Zielone Bloony nadchodzą w następnej rundzie.</T>
+	<T id="LOC_HINT_6" l="0">Im częściej korzystasz z danej wieży, tym więcej jej ulepszeń odblokujesz.</T>
+	<T id="LOC_HINT_7" l="0">Każda wieża ma 2 ścieżki ulepszeń, ale dodatkowe specjalne 3cie i 4te ulepszenia można uzyskać tylko na jednej ze ścieżek.</T>
+	<T id="LOC_HINT_8" l="0">Bloony staną się teraz trudniejsze, przychodzą w ciasnych pęczkach, aby się przebić lub polegać na czystych liczbach.</T>
+	<T id="LOC_HINT_9" l="0">W następnej kolejności nadchodzi kilka Niebieskich Bloonów, potem jeszcze kilka, potem jeszcze kilka, potem jeszcze więcej.</T>
+	<T id="LOC_HINT_10" l="0">Stare dobre Żółte Bloony. Dość szybkie, całkiem spore i dosyć niebezpieczne..</T>
+	<T id="LOC_HINT_11" l="0">Czy zabezpieczyłeś swoje wyjścia?</T>
+	<T id="LOC_HINT_12" l="0">Jeśli nie grałeś w więcej gier Ninja Kiwi, powinieneś - ponieważ te gry są fajne, a zabawa jest dobra.</T>
+	<T id="LOC_HINT_13" l="0">Po odblokowaniu nowej wieży zostanie ona odblokowana na stałe.</T>
+	<T id="LOC_HINT_14" l="0">Użyj większej liczby wież określonego rodzaju, aby szybciej odblokować ich ulepszenia.</T>
+	<T id="LOC_HINT_17" l="0">Masz trochę darmowych pieniędzy dzięki nadchodzących 80 zieloniutkich.</T>
+	<T id="LOC_HINT_21" l="0">Nadciągają białe bloony. Odporne na zamrażanie.</T>
+	<T id="LOC_HINT_24" l="0">To był tylko jeden Kamo bloon. Wypróbuj kolce drogowe, jeśli Twoje wieże go przegapiły. Wkrótce będzie ich więcej, więc przygotuj się!!</T>
+	<T id="LOC_HINT_27" l="0">Ołowiaki są powolne i łatwe do pokonania, jeśli masz odpowiednie wieże, ale ostre rzeczy po prostu ich nie porysują.</T>
+	<T id="LOC_HINT_32" l="0">W następnej rundzie jest dużo Camo Bloons - rozważ drogę Małpiej Ninja.</T>
+	<T id="LOC_HINT_34" l="0">Tęczowe balony, całkiem szybkie, całkiem wrednie i całkiem ładne. W końcu to tęcze, prawda?</T>
+	<T id="LOC_HINT_35" l="0">Strzeż się rundy 42...</T>
+	<T id="LOC_HINT_38" l="0">Więcej bloonów Kamo. Wkrótce. Zostałeś ostrzeżony.</T>
+	<T id="LOC_HINT_41" l="0">Następna runda oddziela silnych od słabych. Wykrywanie kamuflażu i szybkie zadawanie obrażeń dla Regenów.</T>
+	<T id="LOC_HINT_46" l="0">Budujemy trochę gniazdka, prawda? Zastanów się dokładnie, na co je wydać - pieniądze na popy stają się coraz mniejsze.</T>
+	<T id="LOC_HINT_48" l="0">Masz już jakieś Super Małpy?</T>
+	<T id="LOC_HINT_51" l="0">Ok, przyspieszmy trochę, dobrze?</T>
+	<T id="LOC_HINT_55" l="0">Gdzieś, nad Tęczami...</T>
+	<T id="LOC_HINT_58" l="0">Nadchodzi Kamo + Ołów.</T>
 	<T id="LOC_HINT_60" l="0">Podobało ci się to BFB, prawda?</T>
 	<T id="LOC_HINT_62" l="0">Następna runda będzie w @#$% trudna.</T>
-	<T id="LOC_HINT_64" l="0">Last level for Medium difficulty coming up.</T>
-	<T id="LOC_HINT_66" l="0">Keep playing, keep learning. There's a token for you past round 100, too.</T>
-	<T id="LOC_HINT_69" l="0">I pop, therefore I am.</T>
-	<T id="LOC_HINT_72" l="0">Congrats on getting this far.</T>
-	<T id="LOC_HINT_75" l="0">Ready for a whole bunch of Ceramics to charge right through your defenses?</T>
-	<T id="LOC_HINT_78" l="0">You can keep going, but remember to take time to do non-BTD5 things. Like eat and go outside.</T>
-	<T id="LOC_HINT_81" l="0">Regen AND Camo coming up. Not very fun or fair really, is it?</T>
-	<T id="LOC_HINT_84" l="0">If you are playing on Hard, you've done well to get this far. Of course it will all end next level.</T>
-	<T id="LOC_HINT_84_impoppable" l="0">This is the final stretch. If you can push through to round 100, you'll have truly conquered this track. You probably won't, though. At least you had fun.</T>
-	<T id="LOC_HINT_86" l="0">You have conquered the ZOMG. Do you have what it takes to defeat the likes of DDTs and MOAB superclusters?</T>
+	<T id="LOC_HINT_64" l="0">Zbliża się ostatnia runda dla średniego poziomu trudności.</T>
+	<T id="LOC_HINT_66" l="0">Graj dalej, ucz się dalej. Jest też dla ciebie żeton po 100 rundzie.</T>
+	<T id="LOC_HINT_69" l="0">Popuję, przeto jestem.</T>
+	<T id="LOC_HINT_72" l="0">Gratulacje, że zaszedłeś tak daleko.</T>
+	<T id="LOC_HINT_75" l="0">Gotowy na całą masę Ceramików, która przebije się przez twoją obronę?</T>
+	<T id="LOC_HINT_78" l="0">Możesz iść dalej, ale pamiętaj, aby poświęcić czas na robienie rzeczy innych niż BTD5. Jak jeść i wychodzić na zewnątrz..</T>
+	<T id="LOC_HINT_81" l="0">Nadchodzi Regen i Kamo. Niezbyt zabawne ani uczciwe, prawda?</T>
+	<T id="LOC_HINT_84" l="0">Jeśli grasz na trudnym poziomie trudności, dobrze poradziłeś sobie, by zajść tak daleko. Oczywiście to wszystko skończy się na następnym poziomie.</T>
+	<T id="LOC_HINT_84_impoppable" l="0">To jest ostatni odcinek. Jeśli zdołasz przejść do 100 rundy, naprawdę podbijesz ten tor. Jednak prawdopodobnie nie. Przynajmniej dobrze się bawiłeś..</T>
+	<T id="LOC_HINT_86" l="0">Pokonałeś ZOMG. Czy masz to, czego potrzeba, aby pokonać DDT i supergromady MOABów?</T>
 	<T id="LOC_HINT_101" l="0">Nasz tłumacz GerbilPL daje ci żeton na szczęście. Chroń małpy od bloonów!</T>
 	
 	<!--# TIPS -->
@@ -1797,10 +1797,10 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_TIP_TITLE_8" l="0">Specjalni Agenci</T>
 	<T id="LOC_TIP_TITLE_9" l="0">Aktywalne Zdolności</T>
 	<T id="LOC_TIP_TITLE_10" l="0">Farma Bananow</T>
-	<T id="LOC_TIP_TITLE_11" l="0">Heli Pilot</T>
+	<T id="LOC_TIP_TITLE_11" l="0">Helikopter</T>
 	<T id="LOC_TIP_TITLE_12" l="0">Free Play</T>
 	<T id="LOC_TIP_TITLE_13" l="0">Wieże</T>
-	<T id="LOC_TIP_TITLE_14" l="0">Wieże</T>
+	<T id="LOC_TIP_TITLE_14" l="0">Inżynier</T>
 	<T id="LOC_TIP_TITLE_Submerge" l="0">Zanurzanie</T>
 	<T id="LOC_TIP_TITLE_PresentMonkeySub" l="0">Tajemnicza paczka</T>
 	<T id="LOC_TIP_TITLE_NLL" l="0">Niepopowalne</T>
@@ -1808,22 +1808,22 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_TIP_TITLE_AUTOSTART" l="0">Automatyczny start rundy</T>
     
    
-	<T id="LOC_TIP_1" l="0">Black Bloons and White Bloons are small but contain two Pinks. Black Bloons are immune to explosions and White Bloons are immune to freezing. Zebra Bloons are immune to both!</T>
-	<T id="LOC_TIP_2" l="0">Lead Bloons move slowly, but are immune to anything sharp. They contain two Black Bloons.</T>
-	<T id="LOC_TIP_3" l="0">Camo Bloons are very dangerous since most Towers cannot hit them. Any Bloon type can be Camo, and so will all the Bloons that come out of that one. They can only be hit by Towers that can detect Camo Bloons, such as the Ninja Monkey. In an emergency, use Road Spikes to pop them.</T>
-	<T id="LOC_TIP_4" l="0">The Bloons have a powerful new advancement: regrowth. Heart-shaped in appearance, they will grow layers back to their original size if not popped quickly. Beware!</T>
-	<T id="LOC_TIP_5" l="0">Ceramic Bloons are made of clay, and take 10 hits to destroy. They have 2 Rainbow Bloons inside them.</T>
-	<T id="LOC_TIP_6" l="0">MOAB-class Bloons (MOABs, BFBs, and ZOMGs) require hundreds of hits to pop. Luckily for you, they tend to move quite slowly. If any of these get through, it's game over.</T>
+	<T id="LOC_TIP_1" l="0">Czarne i białe bloony są małe, ale zawierają dwa różowe. Czarne bloony są odporne na eksplozje, a Białe bloony na zamrażanie. Bloony zebra są odporne na oba!</T>
+	<T id="LOC_TIP_2" l="0">Ołowiane bloony poruszają się powoli, ale są odporne na wszystko, co ostre. Zawierają dwa czarne bloony.</T>
+	<T id="LOC_TIP_3" l="0">Kamo bloony są bardzo niebezpieczne, ponieważ większość wież nie może ich trafić. Każdy bloon może być Kamo, podobnie jak wszystkie bloony, które z niego wyjdą. Mogą one zostać trafione tylko przez Wieże, które mogą wykryć bloony Kamo, takie jak Małpia Ninja. W sytuacji awaryjnej użyj kolców drogowych, aby je przebić.</T>
+	<T id="LOC_TIP_4" l="0">Bloons mają nowy potężny postęp: regeneracja. Z wyglądu w kształcie serca, przywrócą warstwy do pierwotnego rozmiaru, jeśli nie zostaną szybko wystrzelone. Strzeż się!</T>
+	<T id="LOC_TIP_5" l="0">Ceramiczne bloony są wykonane z gliny i wymagają 10 trafień, aby je zniszczyć. Mają w sobie 2 tęczowe bloony.</T>
+	<T id="LOC_TIP_6" l="0">Bloony klasy MOAB (MOABy, BFB i ZOMGi) wymagają setek trafień, aby pękły. Na szczęście dla ciebie poruszają się dość wolno. Jeśli którykolwiek z nich przejdzie, gra jest skończona.</T>
 	<T id="LOC_TIP_7" l="0">To jest ZOMG. Zeppelin Potężnej Ogromności. Popowanie go jest bardzo, bardzo, ciężkie.</T>
-	<T id="LOC_TIP_8" l="0">You have a Special Agent. These are once-use items that can help you win. Some items are towers that are placed, others are special powers that are activated. You can see how many of each Special Agent you own by tapping the Special Powers Star button.</T>
-	<T id="LOC_TIP_8_Tablet" l="0">You have a Special Agent. These are once-use items that can help you win. Some items are towers that are placed, others are special powers that are activated. You can see how many of each Special Agent you own in the deployment bar at the bottom of the screen.</T>
-	<T id="LOC_TIP_9" l="0">One of your towers now has an Activated Ability. These are extremely powerful abilities that can be used when you get in trouble. Each ability is on a 'cool-down' before it can be used again. You can use the ability by tapping the Special Powers Star button and then tapping the ability icon.</T>
-	<T id="LOC_TIP_9_Tablet" l="0">One of your towers now has an Activated Ability. These are extremely powerful abilities that can be used when you get in trouble. Each ability is on a 'cool-down' before it can be used again. You can use the ability by tapping the ability icons above the deployment bar.</T>
-	<T id="LOC_TIP_10" l="0">You have a Banana Farm! These farms generate bananas automatically each round. Convert the bananas into cash by tapping the bananas. Don't wait too long - the bananas will spoil after 10 seconds if not collected.</T>
-	<T id="LOC_TIP_11" l="0">You have a Heli Pilot! This powerful attack copter has multiple patrol options. Choose between Follow Touch, Lock'n'Place and Patrol, where it will attack between two set points.</T>
-	<T id="LOC_TIP_12" l="0">This is free play mode. You get XP more slowly, but you can earn a Token and get on Leaderboards. Some rounds start to get pretty heavy later on, so your device will start to lag eventually - good luck!</T>
-	<T id="LOC_TIP_13" l="0">Buy towers here and place them around the track to pop the incoming Bloons.  Popping Bloons gives you cash to buy more towers or upgrade your existing ones.</T>
-	<T id="LOC_TIP_14" l="0">The Engineer has been added to your tower loadout! This tower wields a powerful nail gun and has many useful upgrades that create traps, sentries and other enhancements.</T>
+	<T id="LOC_TIP_8" l="0">Masz agenta specjalnego. Są to przedmioty jednorazowego użytku, które mogą pomóc Ci wygrać. Niektóre przedmioty to wieże, które są umieszczane, inne to specjalne moce, które są aktywowane. Możesz zobaczyć, ilu posiadasz z każdego agenta specjalnego, dotykając przycisku Gwiazdka z mocami specjalnymi.</T>
+	<T id="LOC_TIP_8_Tablet" l="0">Masz agenta specjalnego. Są to przedmioty jednorazowego użytku, które mogą pomóc Ci wygrać. Niektóre przedmioty to wieże, które są umieszczane, inne to specjalne moce, które są aktywowane. Możesz zobaczyć, ilu posiadasz z każdego agenta specjalnego, na pasku wdrażania u dołu ekranu.</T>
+	<T id="LOC_TIP_9" l="0">Jedna z twoich wież ma teraz zdolność aktywowaną. Są to niezwykle potężne umiejętności, które można wykorzystać, gdy wpadniesz w kłopoty. Każda umiejętność jest w trakcie „ochładzania”, zanim będzie mogła zostać ponownie użyta. Możesz użyć zdolności, dotykając przycisku Gwiazda mocy specjalnych, a następnie dotykając ikony umiejętności.</T>
+	<T id="LOC_TIP_9_Tablet" l="0">Jedna z twoich wież ma teraz zdolność aktywowaną. Są to niezwykle potężne umiejętności, które można wykorzystać, gdy wpadniesz w kłopoty. Każda umiejętność jest w trakcie „ochładzania”, zanim będzie mogła zostać ponownie użyta. Możesz użyć zdolności, dotykając ikon zdolności nad paskiem rozstawienia.</T>
+	<T id="LOC_TIP_10" l="0">Masz farmę bananów! Te farmy generują banany automatycznie w każdej rundzie. Zamień banany na gotówkę, dotykając bananów. Nie czekaj zbyt długo - banany zepsują się po 10 sekundach, jeśli nie zostaną zebrane.</T>
+	<T id="LOC_TIP_11" l="0">Masz helikopter! Ten potężny śmigłowiec szturmowy ma wiele opcji patrolowania. Wybierz między trybami Za Dotykiem, Zablokuj, Patrol, gdzie będzie latać między dwoma punktami, oraz Ścigaj.</T>
+	<T id="LOC_TIP_12" l="0">To jest tryb Free Play. Zdobywasz PD wolniej, ale możesz zdobyć token i dostać się do rankingów. Niektóre rundy stają się później dość ciężkie, więc Twoje urządzenie w końcu zacznie się opóźniać - powodzenia!</T>
+	<T id="LOC_TIP_13" l="0">Kup tutaj wieże i umieść je wokół toru, aby przebić nadchodzące bloony. Popowanie bloonów daje gotówkę na zakup większej liczby wież lub ulepszenie istniejących.</T>
+	<T id="LOC_TIP_14" l="0">Inżynier został dodany do twojego wyposażenia wieżyczek! Ta wieża jest wyposażona w potężny pistolet na gwoździe i ma wiele przydatnych ulepszeń, które tworzą pułapki, wartowniki i inne ulepszenia.</T>
 	<T id="LOC_TIP_Submerge" l="0">Twój u-boot może teraz zanurzać się i zapewniać wsparcie dla innych wież. Aktywuj tryb zanurzenia, przechodząc przez opcje celowania.</T>
 	<T id="LOC_TIP_PresentMonkeySub" l="0">Gratulacje, udało Ci się rozpakować wystarczająco dużo Bloonów, aby rozpakować tajemniczą przesyłkę. Kliknij w prezent, aby odkryć prezent w środku!</T>
     <T id="LOC_TIP_ODYSSEY_INTRO" l="0">Pamiętaj, że jesteś w trybie odysei, twoje życie musi przetrwać wiele torów! Powodzenia!</T>
@@ -1831,24 +1831,24 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     
 	
 	<!--# GAME OVER TIP -->
-	<T id="LOC_GO_TIP_1" l="0">Monkey Apprentices with Monkey Sense upgrades can pop Camos</T>
-	<T id="LOC_GO_TIP_2" l="0">Dartling Gunners and Spike Factories pop Camos even without upgrades</T>
-	<T id="LOC_GO_TIP_3" l="0">Camo-lead bloons are vicious! Try Cannon Ship Buccaneers or Flash Bomb Ninjas</T>
-	<T id="LOC_GO_TIP_4" l="0">Round 59 has tricky Camo-leads. Try Monkey Sense Monkey Apprentices or White Hot Spike Factories</T>
-	<T id="LOC_GO_TIP_5" l="0">Camo-lead bloons are vicious! Add a Meerkat or Radar Scanner Village to Bomb Shooters</T>
-	<T id="LOC_GO_TIP_6" l="0">Slow Ceramic bloons with Ice or Glue so other towers strip their layers</T>
-	<T id="LOC_GO_TIP_7" l="0">The first MOAB appears on round 46 and takes hundreds of hits to pop. Be ready!</T>
-	<T id="LOC_GO_TIP_8" l="0">Pop Regen bloons fast to stop them regrowing or duplicating!</T>
-	<T id="LOC_GO_TIP_9" l="0">MOAB Mauler Bomb Shooters do big damage to MOAB-class bloons</T>
-	<T id="LOC_GO_TIP_10" l="0">Even MOAB-class bloons are vulnerable to the high fire rate of a Super Monkey</T>
-	<T id="LOC_GO_TIP_11" l="0">Banana Farm cash can be essential to winning harder difficulties</T>
-	<T id="LOC_GO_TIP_12" l="0">Using special agents enough times will permanently unlock the powerful Pro version</T>
-	<T id="LOC_GO_TIP_13" l="0">Use Monkey Lab Tokens to give small permanent upgrades to starting cash, attack speed, and others</T>
-	<T id="LOC_GO_TIP_14" l="0">Specialty Buildings give their towers lowered price, faster attacks, and awesome unique powers</T>
-	<T id="LOC_GO_TIP_15" l="0">Tap on info buttons throughout the game to bring up descriptions and explanations</T>
-	<T id="LOC_GO_TIP_16" l="0">Having trouble placing towers exactly where you want? Try “Drop &amp; Lock” in Tools or Pause</T>
-	<T id="LOC_GO_TIP_17" l="0">Tap on the daily reward chest every day to earn more and more free Monkey Money</T>
-	<T id="LOC_GO_TIP_18" l="0">Try changing some of your towers' attack settings from “First” to “Strong.”</T>
+	<T id="LOC_GO_TIP_1" l="0">Małpie Czarodziejki z ulepszeniami Małpiego Zmysłu mogą przebić bloony Kamos</T>
+	<T id="LOC_GO_TIP_2" l="0">Strzelce Dartlinga i Fabryki Gwoździ popują Kamo bez ulepszeń</T>
+	<T id="LOC_GO_TIP_3" l="0">Bloony z Kamo-Ołów są okrutne! Wypróbuj Pirata z armatami lub Ninja z Bombami Błyskowymi</T>
+	<T id="LOC_GO_TIP_4" l="0">Runda 59 ma trudne Kamo Ołowiaki. Wypróbuj Małpie Czarodziejki z Małpim Zmysłem lub Fabryki Białych Gorących Gwoździ</T>
+	<T id="LOC_GO_TIP_5" l="0">Bloony z Kamo-Ołów są okrutne! Dodaj surykatkę lub wioskę ze skanerem radarowym do Strzelców Bomb</T>
+	<T id="LOC_GO_TIP_6" l="0">Spowolniaj bloony ceramiczne lodem lub klejem, aby inne wieże zdzierały ich warstwy</T>
+	<T id="LOC_GO_TIP_7" l="0">Pierwszy MOAB pojawia się w rundzie 46 i wymaga setek trafień. Bądź gotów!</T>
+	<T id="LOC_GO_TIP_8" l="0">Popuj bloony Regen szybko, aby powstrzymać ich odrastanie lub powielanie!</T>
+	<T id="LOC_GO_TIP_9" l="0">Strzelce Bomb z ulepszeniem MOAB Mauler zadają duże obrażenia balonom klasy MOAB</T>
+	<T id="LOC_GO_TIP_10" l="0">Nawet balony klasy MOAB są podatne na wysoką szybkostrzelność Super Małpy</T>
+	<T id="LOC_GO_TIP_11" l="0">Gotówka z Farm Bananów może być niezbędna do wygrywania na trudniejszych poziomach trudności</T>
+	<T id="LOC_GO_TIP_12" l="0">Użycie specjalnych agentów wystarczająco dużo razy odblokuje na stałe ich potężną wersję Pro</T>
+	<T id="LOC_GO_TIP_13" l="0">Użyj żetonów w Małpim Laboratorium, aby zapewnić niewielkie stałe ulepszenia początkowej gotówki, szybkości ataku i innych</T>
+	<T id="LOC_GO_TIP_14" l="0">Budynki specjalne zapewniają ich wieżą obniżoną cenę, szybsze ataki i niesamowite unikalne moce</T>
+	<T id="LOC_GO_TIP_15" l="0">Dotknij przycisków informacyjnych w całej grze, aby wyświetlić opisy i wyjaśnienia</T>
+	<T id="LOC_GO_TIP_16" l="0">Masz problem z umieszczeniem wież dokładnie tam, gdzie chcesz? Spróbuj opcji “Przeciąganie” w Ustawieniach lub pauzie</T>
+	<T id="LOC_GO_TIP_17" l="0">Stuknij w codzienną skrzynię z nagrodami każdego dnia, aby zdobywać coraz więcej darmowej Małpiej Gotówki</T>
+	<T id="LOC_GO_TIP_18" l="0">Spróbuj zmienić niektóre ustawienia ataku swoich wież z „Pierwsze” na „Silne”.</T>
 	<T id="LOC_GO_TIP_19" l="0">Umieść wieże na skrzyżowaniach i narożach torów, aby uzyskać maksymalną wydajność</T>
 	
 	
@@ -3584,39 +3584,39 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     
     <!--# DAILY QUESTS -->
     
-    <T id="LOC_BLOONTYPE_PLURAL_Red" l="0">Czerwone Bloony</T>                   
-    <T id="LOC_BLOONTYPE_PLURAL_Blue" l="0">Niebieskie Bloony</T>                 
-    <T id="LOC_BLOONTYPE_PLURAL_Green" l="0">Zielone Bloony</T>               
-    <T id="LOC_BLOONTYPE_PLURAL_Yellow" l="0">Żółte Bloony</T>             
-    <T id="LOC_BLOONTYPE_PLURAL_Pink" l="0">Różowe Bloony</T>                 
-    <T id="LOC_BLOONTYPE_PLURAL_Black" l="0">Czarne Bloony</T>
-    <T id="LOC_BLOONTYPE_PLURAL_White" l="0">Białe Bloony</T>
-    <T id="LOC_BLOONTYPE_PLURAL_Lead" l="0">Ołowiane Bloony</T>
-    <T id="LOC_BLOONTYPE_PLURAL_Zebra" l="0">Zebra Bloony</T>
-    <T id="LOC_BLOONTYPE_PLURAL_Rainbow" l="0">Tęczowe Bloony</T>
-    <T id="LOC_BLOONTYPE_PLURAL_Ceramic" l="0">Ceramiczne Bloony</T>
-    <T id="LOC_BLOONTYPE_PLURAL_MOAB" l="0">MOABy</T>
+    <T id="LOC_BLOONTYPE_PLURAL_Red" l="0">Czerwonych Bloonów</T>                   
+    <T id="LOC_BLOONTYPE_PLURAL_Blue" l="0">Niebieskiych Bloonów</T>                 
+    <T id="LOC_BLOONTYPE_PLURAL_Green" l="0">Zielonych Bloonów</T>               
+    <T id="LOC_BLOONTYPE_PLURAL_Yellow" l="0">Żółtych Bloonów</T>             
+    <T id="LOC_BLOONTYPE_PLURAL_Pink" l="0">Różowych Bloonów</T>                 
+    <T id="LOC_BLOONTYPE_PLURAL_Black" l="0">Czarnych Bloonów</T>
+    <T id="LOC_BLOONTYPE_PLURAL_White" l="0">Białych Bloonów</T>
+    <T id="LOC_BLOONTYPE_PLURAL_Lead" l="0">Ołowianych Bloonów</T>
+    <T id="LOC_BLOONTYPE_PLURAL_Zebra" l="0">Zebra Bloonów</T>
+    <T id="LOC_BLOONTYPE_PLURAL_Rainbow" l="0">Tęczowych Bloonów</T>
+    <T id="LOC_BLOONTYPE_PLURAL_Ceramic" l="0">Ceramicznych Bloonów</T>
+    <T id="LOC_BLOONTYPE_PLURAL_MOAB" l="0">MOABów</T>
     <T id="LOC_BLOONTYPE_PLURAL_BFB" l="0">BFB</T>
-    <T id="LOC_BLOONTYPE_PLURAL_ZOMG" l="0">ZOMG</T>
+    <T id="LOC_BLOONTYPE_PLURAL_ZOMG" l="0">ZOMGów</T>
     <T id="LOC_BLOONTYPE_MOABCLASS" l="0">klasy MOAB</T>
     
-    <T id="LOC_DAILYQUEST_NAME_PopLead" l="0">Heavy Boots of Lead</T>
+    <T id="LOC_DAILYQUEST_NAME_PopLead" l="0">Ciężkie Buty z Ołowiu</T>
     <T id="LOC_DAILYQUEST_NAME_BeehiveJive" l="0">Beehive Jive</T>
-    <T id="LOC_DAILYQUEST_NAME_StickyGlue" l="0">Vicious Glue</T>
-    <T id="LOC_DAILYQUEST_NAME_MoabRock" l="0">MOAB Rock</T>
-    <T id="LOC_DAILYQUEST_NAME_RegenThis" l="0">Regen This</T>
+    <T id="LOC_DAILYQUEST_NAME_StickyGlue" l="0">Złośliwy Klej</T>
+    <T id="LOC_DAILYQUEST_NAME_MoabRock" l="0">Kamień MOAB</T>
+    <T id="LOC_DAILYQUEST_NAME_RegenThis" l="0">Regeneruj To</T>
     <T id="LOC_DAILYQUEST_NAME_PinaColada" l="0">Piña Colada</T>
-    <T id="LOC_DAILYQUEST_NAME_bionicMeerkat" l="0">Bionic Meerkat</T>
-    <T id="LOC_DAILYQUEST_NAME_upgradeComplete" l="0">Upgrade Complete</T>
-    <T id="LOC_DAILYQUEST_NAME_unseenDanger" l="0">Unseen Danger</T>
+    <T id="LOC_DAILYQUEST_NAME_bionicMeerkat" l="0">Bioniczna Surykatka</T>
+    <T id="LOC_DAILYQUEST_NAME_upgradeComplete" l="0">Ulepszenie Zakończone</T>
+    <T id="LOC_DAILYQUEST_NAME_unseenDanger" l="0">Niewidzialne Niebezpieczeństwo</T>
     <T id="LOC_DAILYQUEST_NAME_iceIceBaby" l="0">Ice, Ice Baby</T>
-    <T id="LOC_DAILYQUEST_NAME_stripedAllOver" l="0">Striped All Over</T>
-    <T id="LOC_DAILYQUEST_NAME_fragOut" l="0">Frag Out!</T>
+    <T id="LOC_DAILYQUEST_NAME_stripedAllOver" l="0">Pasiaste na całej powierzchni</T>
+    <T id="LOC_DAILYQUEST_NAME_fragOut" l="0">Fragowanie!</T>
     <T id="LOC_DAILYQUEST_NAME_flashBang" l="0">Flash Bash</T>
     <T id="LOC_DAILYQUEST_NAME_angryAngrySquirrels" l="0">Angry, Angry Squirrels</T>
     <T id="LOC_DAILYQUEST_NAME_bigFriendly" l="0">Big Friendly Bloon?</T>
     <T id="LOC_DAILYQUEST_NAME_below" l="0">It Came From Below!</T>
-    <T id="LOC_DAILYQUEST_NAME_somewhere" l="0">Somewhere...</T>
+    <T id="LOC_DAILYQUEST_NAME_somewhere" l="0">Gdzieś...</T>
     <T id="LOC_DAILYQUEST_NAME_highVoltage" l="0">Wysokie napięcie</T>
     <T id="LOC_DAILYQUEST_NAME_spikeMaster" l="0">Spike Master</T>
     <T id="LOC_DAILYQUEST_NAME_poundZero" l="0">Pound Zero</T>
@@ -3625,15 +3625,15 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_DAILYQUEST_NAME_allCashedUp" l="0">All Cashed Up</T>
     <T id="LOC_DAILYQUEST_NAME_fearTheJuggernaut" l="0">Fear the Juggernaut</T>
     <T id="LOC_DAILYQUEST_NAME_spotter" l="0">Spotter</T>
-    <T id="LOC_DAILYQUEST_NAME_hardened" l="0">Hardened</T>
+    <T id="LOC_DAILYQUEST_NAME_hardened" l="0">Utwardzony</T>
     <T id="LOC_DAILYQUEST_NAME_missionImpossible" l="0">Mission: Impossible</T>
     <T id="LOC_DAILYQUEST_NAME_stunGun" l="0">Stun Gun</T>
-    <T id="LOC_DAILYQUEST_NAME_assemble" l="0">Assemble!</T>
+    <T id="LOC_DAILYQUEST_NAME_assemble" l="0">ZGRUPOWAĆ SIĘ!</T>
     <T id="LOC_DAILYQUEST_NAME_tmnt" l="0">TMNT</T>
     <T id="LOC_DAILYQUEST_NAME_dreadPirate" l="0">Dread Pirate Monkey</T>
-    <T id="LOC_DAILYQUEST_NAME_payDay" l="0">Pay Day</T>
-    <T id="LOC_DAILYQUEST_NAME_epicRange" l="0">Epic Range</T>
-    <T id="LOC_DAILYQUEST_NAME_overTheRainbow" l="0">Over The Rainbow</T>
+    <T id="LOC_DAILYQUEST_NAME_payDay" l="0">Dzień Wypłaty</T>
+    <T id="LOC_DAILYQUEST_NAME_epicRange" l="0">Epicki Zasięg</T>
+    <T id="LOC_DAILYQUEST_NAME_overTheRainbow" l="0">Nad Tęczą</T>
     <T id="LOC_DAILYQUEST_NAME_legend" l="0">Legendary Bloon Popper</T>
     <T id="LOC_DAILYQUEST_NAME_rolling" l="0">Rolling In It</T>
     <T id="LOC_DAILYQUEST_NAME_spikeopult" l="0">Spike-O-Pult!</T>
@@ -3644,14 +3644,14 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_DAILYQUEST_NAME_extraHardened" l="0">Extra Hardened</T>
     <T id="LOC_DAILYQUEST_NAME_bloonPopper" l="0">Supreme Bloon Popper</T>
     <T id="LOC_DAILYQUEST_NAME_easyAsPie" l="0">Easy As Pie</T>
-    <T id="LOC_DAILYQUEST_NAME_challengeAccepted" l="0">Challenge Accepted</T>
+    <T id="LOC_DAILYQUEST_NAME_challengeAccepted" l="0">Wyzwanie Przyjęte</T>
     <T id="LOC_DAILYQUEST_NAME_epicBloonPopper" l="0">Epic Bloon Popper</T>
     <T id="LOC_DAILYQUEST_NAME_agentPros" l="0">Pregame Prep</T>
     <T id="LOC_DAILYQUEST_NAME_advancedTactics" l="0">Advanced Tactics</T>
     <T id="LOC_DAILYQUEST_NAME_thebigshred" l="0">The Big Shred</T>
     <T id="LOC_DAILYQUEST_NAME_trapmoney" l="0">Trap Money</T>
     
-    <T id="LOC_DAILYQUEST_DESC_FIXED_upgradeComplete" l="0">Obtain a new specialty building or upgrade</T>
+    <T id="LOC_DAILYQUEST_DESC_FIXED_upgradeComplete" l="0">Zdobądź nowy budynek specjalny lub go ulepsz</T>
    
   
     <T id="LOC_DAILYQUEST_DESC_POPBLOONS_BASIC" l="0">Popuj %1$s Bloonów</T>                          <!--e.g. Pop 1,000 Bloons-->
@@ -3663,11 +3663,11 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_DAILYQUEST_DESC_COLLECTFROMFARMS" l="0">Zbierz %s Pieniędzy z Farm</T>             <!--e.g. Collect 10,000 Cash from Farms-->
     <T id="LOC_DAILYQUEST_DESC_SPECIALMISSION" l="0">Ukończ Specjalną Misję</T>
     <T id="LOC_DAILYQUEST_DESC_SPECIALMISSION_n" l="0">Ukończ %s Specjalnych(e) Misji(e)</T>            <!--e.g. Complete 50 Special Missions-->
-    <T id="LOC_DAILYQUEST_DESC_BUYAGENTS_n" l="0">Buy %s towers with Monkey Money</T>      <!--e.g. Buy 5 towers with Monkey Money-->
-    <T id="LOC_DAILYQUEST_DESC_BUYAGENTS_OFTYPE_n" l="0">Buy %1$s %2$s Special Agents</T>          <!--e.g. Buy 5 Tribal Turtle Special Agents-->
-    <T id="LOC_DAILYQUEST_DESC_EARN_n" l="0">Earn %s Monkey Money</T>                              <!--e.g. Earn 20,000 Monkey Money -->
-    <T id="LOC_DAILYQUEST_DESC_SPECIALABILITY_n" l="0">Use Special Abilities %s times</T>              <!--e.g. Use Special Abilities 100 times -->
-    <T id="LOC_DAILYQUEST_DESC_SPECIALABILITY_TYPE_n" l="0">Use %2$s special ability %1$s times</T>    <!--e.g. Use MOAB Takedown Special Ability 5 times -->
+    <T id="LOC_DAILYQUEST_DESC_BUYAGENTS_n" l="0">Kup %s wież za Małpią Gotówkę</T>      <!--e.g. Buy 5 towers with Monkey Money-->
+    <T id="LOC_DAILYQUEST_DESC_BUYAGENTS_OFTYPE_n" l="0">Kup %1$s %2$s Specjalnych Agentów</T>          <!--e.g. Buy 5 Tribal Turtle Special Agents-->
+    <T id="LOC_DAILYQUEST_DESC_EARN_n" l="0">Zbierz %s Małpiej Gotówki</T>                              <!--e.g. Earn 20,000 Monkey Money -->
+    <T id="LOC_DAILYQUEST_DESC_SPECIALABILITY_n" l="0">Użyj specjalnych zdolności %s razy</T>              <!--e.g. Use Special Abilities 100 times -->
+    <T id="LOC_DAILYQUEST_DESC_SPECIALABILITY_TYPE_n" l="0">Użyj specjalnej zdolności %2$s %1$s razy</T>    <!--e.g. Use MOAB Takedown Special Ability 5 times -->
     
      
     <T id="LOC_TOWERINFO_TOWER_AT_LEVEL" l="0">%1$s-%2$s %3$s</T>                                      <!--e.g. 0-2 Boomerang Tower OR X-4 Super Monkey -->
@@ -3677,16 +3677,16 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_BLOONINFO_BLOONTYPE_FROZEN" l="0">Zamrożone %s</T>                                         <!--e.g. Frozen Bloons OR Frozen Red Bloons -->
     <T id="LOC_BLOONINFO_PATH_X" l="0">X</T>
   
-    <T id="LOC_SPECIALABILITY_GroundZero" l="0">Ground Zero</T>
-    <T id="LOC_SPECIALABILITY_MOABTakedown" l="0">MOAB Takedown</T>
+    <T id="LOC_SPECIALABILITY_GroundZero" l="0">Strefa Zero</T>
+    <T id="LOC_SPECIALABILITY_MOABTakedown" l="0">Eliminator MOABów</T>
     
-    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_DailyChallenges" l="0">Win %s Daily Challenges</T>				<!--e.g. Win 30 Daily Challenges -->
-    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_Maps" l="0">Wygraj %s Map(y)</T>										<!--e.g. Win 10 Maps -->
-    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsAtLevel" l="0">Win %1$s Maps on %2$s</T>						<!--e.g. Win 5 Maps on Easy -->
-    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsAtLevelOrAbove" l="0">Win %1$s Maps on %2$s or harder </T>    <!--e.g. Win 5 Maps on Medium or harder -->
-    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsType" l="0">Win %1$s %2$s Maps</T>							<!--e.g. Win 10 Beginner Maps -->
-    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsTypeAtLevel" l="0">Win %1$s %2$s Maps on %3$s</T>              <!--e.g. Win 5 Intermediate Maps on Medium -->
-    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsTypeAtLevelOrAbove" l="0">Wygraj %1$s %2$s Maps on %3$s or harder </T>
+    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_DailyChallenges" l="0">Przejdź %s Codziennych Wyzwań</T>				<!--e.g. Win 30 Daily Challenges -->
+    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_Maps" l="0">Przejdź %s Map</T>										<!--e.g. Win 10 Maps -->
+    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsAtLevel" l="0">Przejdź %1$s Map na poziomie %2$s</T>						<!--e.g. Win 5 Maps on Easy -->
+    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsAtLevelOrAbove" l="0">Przejdź %1$s Map na poziomie %2$s bądź trudniejszym </T>    <!--e.g. Win 5 Maps on Medium or harder -->
+    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsType" l="0">Przejdź %1$s %2$s Map</T>							<!--e.g. Win 10 Beginner Maps -->
+    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsTypeAtLevel" l="0">Przejdź %1$s %2$s Map ma poziomie %3$s</T>              <!--e.g. Win 5 Intermediate Maps on Medium -->
+    <T id="LOC_DAILYQUEST_COMPLETIONTYPE_MapsTypeAtLevelOrAbove" l="0">Przejdź %1$s %2$s Map na poziomie %3$s bądź trudniejszym </T>
       <!--e.g. Win 5 Intermediate Maps on Medium or harder -->>
  
     <T id="LOC_DAILYQUEST_EXPIRED" l="0">Wygasło</T>
@@ -3695,8 +3695,8 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_DAILYQUEST_CLAIMEDREWARD" l="0">PRZYJĘTA</T>
 	
 	
-    <T id="LOC_REWARD_DESCRIPTION_DOUBLEMMM_DAYS" l="0">DOUBLE MONKEY MONEY FOR %d DAYS</T>
-    <T id="LOC_REWARD_DESCRIPTION_DOUBLEMMM_HOURS" l="0">DOUBLE MONKEY MONEY FOR %d HOURS</T>
+    <T id="LOC_REWARD_DESCRIPTION_DOUBLEMMM_DAYS" l="0">PODWÓJNE MAŁPIE PIENIĄDZE PRZEZ %d DNI</T>
+    <T id="LOC_REWARD_DESCRIPTION_DOUBLEMMM_HOURS" l="0">PODWÓJNE MAŁPIE PIENIĄDZE NA %d GODZIN</T>
     
 	<!-- Easter -->
 	<T id="LOC_EASTER_INTRO" l="0">Welcome to the Bloons TD 5 Egg Hunt! Look for special easter eggs on the track select screen and beat that track to collect them. The harder the difficulty, the more eggs you'll win. Collect enough eggs and win fantastic prizes! Three new eggs appear on maps every day, so be sure to  come back daily to hunt down all 3.</T>
@@ -4042,7 +4042,7 @@ Happy Holidays from the Ninja Kiwi team!</T>
 	-->
 	
 	<T id="LOC_LOCAL_FEED_AMAZON_MoreGames_DESC" l="0">Check out all the latest Apps from the Ninja Kiwi team.\n\nTap 'GO' to jump to our store page.</T>
-	<T id="LOC_LOCAL_FEED_AMAZON_Update_10000_DESC" l="0">Welcome to Bloons TD 5!\nJump in and start checking out all of the never-before-seen awesomeness - Heli Pilot tower, new Special Missions, Monkey Lab upgrades, Radadactyl Special Agent, tier 4 Specialty Buildings and so much more!\n\nKeep an eye on the town message board for the latest news and updates on Bloons TD 5!</T>
+	<T id="LOC_LOCAL_FEED_AMAZON_Update_10000_DESC" l="0">Witaj w Bloons TD 5!\nWskakuj i sprawdź wszystkie nigdy wcześniej nie widziane niesamowitości - Helikopter, nowe misje Specjalne, ulepszenia Małpiego Laboratorium, Agent Specjalny Radadaktyl, poziom 4 Specjalnych Budynków i wiele więcej!\n\nMiej oko na tablicę wiadomości miasta, aby otrzymywać najnowsze wiadomości i aktualizacje dotyczące Bloons TD 5!</T>
 	<T id="LOC_LOCAL_FEED_AMAZON_Update_10100_DESC" l="0">Update 1.1 is here and it's time for some awesome new content. First up is a brand new beginner map, Brick Wall. Can you gain bronze, silver, and gold medals? Due to popular demand we've also added the ability to unlock Sandbox Mode! Sandbox is perfect for experimenting with towers and tactics. More content coming soon!</T>
 	<T id="LOC_LOCAL_FEED_AMAZON_Update_10200_DESC" l="0">Brand new Tower, Track and Game Mode! First up is the brand new intermediate track, Workshop, a perfect playground for Engineers. Next up is an awesome tower, The Engineer, which can be upgraded to access powerful sentry guns. We've also added the ability to unlock Fast Track. Bypass early rounds and start the game from round 26.</T>
 	<T id="LOC_LOCAL_FEED_AMAZON_Update_10300_DESC" l="0">Brand new Tower, and Game Mode! Time for a new awesome tower, The Bloonchipper, which can be upgraded to shred MOAB class bloons. We've also added the ability to unlock reverse mode for tracks.</T>
@@ -4087,7 +4087,7 @@ We've also added Google Play Achievements! Try and collect them all!</T>
 	-->
 	
 	<T id="LOC_LOCAL_FEED_HUMBLE_MoreGames_DESC" l="0">Check out all the latest Apps from the Ninja Kiwi team.\n\nTap 'GO' to jump to our store page.</T>
-	<T id="LOC_LOCAL_FEED_HUMBLE_Update_10000_DESC" l="0">Welcome to Bloons TD 5!\nJump in and start checking out all of the never-before-seen awesomeness - Heli Pilot tower, new Special Missions, Monkey Lab upgrades, Radadactyl Special Agent, tier 4 Specialty Buildings and so much more!\n\nKeep an eye on the town message board for the latest news and updates on Bloons TD 5!</T>
+	<T id="LOC_LOCAL_FEED_HUMBLE_Update_10000_DESC" l="0">Witaj w Bloons TD 5!\nWskakuj i sprawdź wszystkie nigdy wcześniej nie widziane niesamowitości - Helikopter, nowe misje Specjalne, ulepszenia Małpiego Laboratorium, Agent Specjalny Radadaktyl, poziom 4 Specjalnych Budynków i wiele więcej!\n\nMiej oko na tablicę wiadomości miasta, aby otrzymywać najnowsze wiadomości i aktualizacje dotyczące Bloons TD 5!</T>
 	<T id="LOC_LOCAL_FEED_HUMBLE_Update_20000_DESC" l="0">Humble bundle 2.0 update description</T>
 	
 	<!--#
@@ -4165,21 +4165,21 @@ Have fun and stayed tuned for more awesome content coming your way soon!
 	<!--# DESKTOP SPECIFIC -->
 	<T id="LOC_FLIGHT_MODE_FollowTouch_OSX" l="0">Za Myszką</T>
 	<T id="LOC_TARGET_MODE_FollowTouch_OSX" l="0">Za Myszką</T>
-	<T id="LOC_TIP_11_OSX" l="0">You have a Heli Pilot! This powerful attack copter has multiple patrol options. Choose between Follow Mouse, Lock'n'Place and Patrol, where it will attack between two set points.</T>
-	<T id="LOC_HELP_Lab_DESC_OSX" l="0">Lab upgrades provide a boost in the battlefield every time you play!  To fund your research, you need Tokens which you gain by beating tracks and Special Missions.  The lab displays how many Tokens are required for the next upgrade.  Click each upgrade to learn its benefits.</T>
-	<T id="LOC_HELP_Abilities_DESC_OSX" l="0">This is the Agents and Abilities deployment bar. From here you can drag Agents onto the battlefield just like regular towers.\n\nAbilities are slightly different. Once you unlock an ability it will be added to the deployment bar and you simply click the icon to activate it. The ability will then go on a cooldown timer and you won't be able to activate it again until the timer resets.</T>
+	<T id="LOC_TIP_11_OSX" l="0">Masz helikopter! Ten potężny śmigłowiec szturmowy ma wiele opcji patrolowania. Wybierz między trybami Za Myszką, Zablokuj, Patrol, gdzie będzie latać między dwoma punktami, oraz Ścigaj.</T>
+	<T id="LOC_HELP_Lab_DESC_OSX" l="0">Ulepszenia laboratorium zwiększą ci przewagę na polu bitwy za każdym razem jak zagrasz! Żeby fundować badania, potrzebujesz żetonów, które zdobędziesz przechodząc mapy i misje specjalne.  Laboratorium pokazuje ile wymaga żetonów na następne ulepszenie. Kliknij w każde ulepszenie aby dowiedzieć się co daje.</T>
+	<T id="LOC_HELP_Abilities_DESC_OSX" l="0">To jest pasek wdrażania agentów i zdolności. Stąd możesz przeciągać Agentów na pole bitwy, tak jak zwykłe wieże.\n\nZdolności są nieco inne. Gdy odblokujesz zdolność, zostanie ona dodana do paska wdrażania i po prostu kliknij ikonę, aby ją aktywować. Umiejętność wtedy zacznie się odnawiać i nie będzie można jej ponownie aktywować, dopóki licznik czasu się nie zresetuje.</T>
 	<T id="LOC_GUI_MISC_TowerOverclock_OSX" l="0">Kliknij wieżę do podkręcenia...</T>
-	<T id="LOC_TIP_8_OSX" l="0">You have a Special Agent. These are once-use items that can help you win. Some items are towers that are placed, others are special powers that are activated. You can see how many of each Special Agent you own by clicking the Special Powers Star button.</T>
-    <T id="LOC_TIP_9_OSX" l="0">One of your towers now has an Activated Ability. These are extremely powerful abilities that can be used when you get in trouble. Each ability is on a 'cool-down' before it can be used again. You can use the ability by clicking the ability icons above the deployment bar.</T>
-	<T id="LOC_TIP_10_OSX" l="0">You have a Banana Farm! These farms generate bananas automatically each round. Convert the bananas into cash by mousing over the bananas. Don't wait too long - the bananas will spoil after 10 seconds if not collected.</T>
-	<T id="LOC_GO_TIP_15_OSX" l="0">Click on info buttons throughout the game to bring up descriptions and explanations</T>
-	<T id="LOC_GO_TIP_17_OSX" l="0">Click on the daily reward chest every day to earn more and more free Monkey Money</T>
-	<T id="LOC_LOCAL_FEED_OSX_MoreGames_DESC" l="0">Visit the App Store to check out all the latest Apps from the Ninja Kiwi team.\n\nClick 'GO' to jump to our App Store page.</T>
+	<T id="LOC_TIP_8_OSX" l="0">Masz agenta specjalnego. Są to przedmioty jednorazowego użytku, które mogą pomóc Ci wygrać. Niektóre przedmioty to wieże, które są umieszczane, inne to specjalne moce, które są aktywowane. Możesz zobaczyć, ilu posiadasz z każdego agenta specjalnego, klikając w przycisk Gwiazdka z mocami specjalnymi.</T>
+    <T id="LOC_TIP_9_OSX" l="0">Jedna z twoich wież ma teraz zdolność aktywowaną. Są to niezwykle potężne umiejętności, które można wykorzystać, gdy wpadniesz w kłopoty. Każda umiejętność jest w trakcie „ochładzania”, zanim będzie mogła zostać ponownie użyta. Możesz użyć zdolności, klikając w przycisk Gwiazda mocy specjalnych, a następnie klikając ikony umiejętności.</T>
+	<T id="LOC_TIP_10_OSX" l="0">Masz farmę bananów! Te farmy generują banany automatycznie w każdej rundzie. Zamień banany na gotówkę, najeżdżając banany. Nie czekaj zbyt długo - banany zepsują się po 10 sekundach, jeśli nie zostaną zebrane.</T>
+	<T id="LOC_GO_TIP_15_OSX" l="0">Kliknij przyciski informacyjne w całej grze, aby wyświetlić opisy i wyjaśnienia</T>
+	<T id="LOC_GO_TIP_17_OSX" l="0">Kliknij w codzienną skrzynię z nagrodami każdego dnia, aby zdobywać coraz więcej darmowej Małpiej Gotówki</T>
+	<T id="LOC_LOCAL_FEED_OSX_MoreGames_DESC" l="0">Odwiedź App Store, aby sprawdzić wszystkie najnowsze aplikacje zespołu Ninja Kiwi.\n\nKliknij „IDŹ”, aby przejść do naszej strony App Store.</T>
 	<T id="LOC_SETTINGS_DropLock_OSX" l="0">Klikanie</T>
-	<T id="LOC_TOWER_DESC_OSX_DartlingGun" l="0">Shoots darts like a machine gun, at any position you mouseover.</T>
+	<T id="LOC_TOWER_DESC_OSX_DartlingGun" l="0">Strzela rzutkami jak karabin, w pozycję którą najedziesz.</T>
 	<T id="LOC_TOWER_DESC_OSX_BananaFarm" l="0">Uprawia banany, które możesz najechać myszką, aby zebrać za gotówkę.</T>
     <T id="LOC_HOTKEY_LABEL" l="0">Skrót: %s</T>		<!--@ "Hotkey: A" -->
-    <T id="LOC_TIP_PresentMonkeySub_Desktop" l="0">Congratulations, you've popped enough Bloons to unwrap the mysterious parcel. Click on the present to uncover the gift inside!</T>
+    <T id="LOC_TIP_PresentMonkeySub_Desktop" l="0">Gratulacje, udało ci się roztrzaskać wystarczająco dużo Bloonów, aby rozpakować tajemniczą paczkę. Kliknij prezent, aby odkryć prezent w środku!</T>
 	<T id="LOC_LOCAL_FEED_Update_20000_DESC_OSX" l="0">Play Co-Pop with your friends!\n\nGrab your sharpest darts and jump into two-player cooperative Bloons TD 5. Featuring custom made maps for Co-Pop chaos, BTD5 Co-Pop is a brand new challenge for you and your friends. Figure out the best way to work together with your shared money and lives to earn the new achievements and all the Awesome that goes with it.</T>
 
 	
@@ -4661,10 +4661,10 @@ Jeśli już tego nie zrobiłeś, dołącz do mojego serwera Discord aby sprawdza
 	
     <T id="LOC_DAILYQUEST_DESC_StickyGlue" l="0">Popuj 1000 bloonów używając Strzelca Kleju</T>
     <T id="LOC_DAILYQUEST_DESC_thebigshred" l="0">Popuj 100 bloonów klasy MOAB używając Bloonorębarki</T>
-    <T id="LOC_DAILYQUEST_DESC_stunGun" l="0">Popuj 100 MOAB-class bloons with 4-X Sniper Monkeys</T>
-    <T id="LOC_DAILYQUEST_NAME_apexpower" l="0">Apex Power Achieved</T>
-    <T id="LOC_DAILYQUEST_DESC_apexpower" l="0">Popuj 1 million Bloonów przy użyciu 2-2 lub lepszych Bloonsday Devices</T>
-    <T id="LOC_DAILYQUEST_NAME_monkeygearsolid" l="0">Monkey Gear Solid</T>
+    <T id="LOC_DAILYQUEST_DESC_stunGun" l="0">Popuj 100 bloonów klasy MOAB z 4-X Małpimi Snajperami</T>
+    <T id="LOC_DAILYQUEST_NAME_apexpower" l="0">OSIĄGNIĘTO SZCZYTOWĄ MOC</T>
+    <T id="LOC_DAILYQUEST_DESC_apexpower" l="0">Popuj 1 million Bloonów przy użyciu 2-2 lub lepszych Urządzeń Bloonokalipsy</T>
+    <T id="LOC_DAILYQUEST_NAME_monkeygearsolid" l="0">Małpi Sprzęt Solidny</T>
     <T id="LOC_DAILYQUEST_NAME_notsoforgotten" l="0">Nie Tak Zapomniane</T>
 	
 	<!-- Added Hints -->
