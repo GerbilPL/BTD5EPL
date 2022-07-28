@@ -25,9 +25,9 @@ There are a few reasons that the translation might not fully work or at all.
 
 Absolutely! If you want to translate expansion, type to 5h3i1ah, just in case there is a translation ongoing already, that you can take part in.
 
-If you want to help me with translation, just check progress in main branch and in pull requests. Be sure to check [Editing.md](docs/Editing.md) file before starting.
+If you want to help me with translation, just check progress in main branch and in pull requests. Be sure to check [How I Edit](docs/readme.md) page before starting.
 
-If you want to see what guidelines I follow, check the [Editing.md](docs/Editing.md) file.
+If you want to see what guidelines I follow, check the [How I Edit](docs/readme.md) file.
  
 **If you have any other questions, ask them in GitHub Discussions or in Discord, via server ping or pm.**
  
@@ -57,8 +57,8 @@ Jest kilka powodów dlaczego tłumaczenie może nie działać poprawie albo wcal
 
 Oczywiście! Jeśli chcesz przetłumaczyć Expansion, napisz do 5h3i1ah, czy nie ma przypadkiem już tłumaczenia, w którym możesz wziąć udział.
 
-Jeżeli chcesz mi pomóc z tłumaczeniem, po prostu sprawdź postęp w gałęzi main i w pull requestach. Przed rozpoczęciem sprawdź plik [Editing.md](docs/Editing.md).
+Jeżeli chcesz mi pomóc z tłumaczeniem, po prostu sprawdź postęp w gałęzi main i w pull requestach. Przed rozpoczęciem sprawdź plik [Jak Edytuję](docs/readme.md).
 
-Jeśli chcesz zobaczyć, jakimi wytycznymi się kieruję, zobacz plik [Editing.md](docs/Editing.md).
+Jeśli chcesz zobaczyć, jakimi wytycznymi się kieruję, zobacz plik [Jak Edytuję](docs/readme.md).
  
  **Jeżeli masz jakieś inne pytania, zadaj je w Dyskusjach GitHub lub w Discordzie, poprzez ping na serwerze bądź pm.**
