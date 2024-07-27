@@ -3,24 +3,24 @@ Version Pre-Release 2:
  - [ ] Main menu
    - [x] Premium Store
    - [x] Settings
-   - [ ] Buildings (3 Planned next)
+   - [ ] Buildings
    - [x] Chest
-   - [ ] Mailman (4 Planned next, partialy done)
+   - [ ] Mailman (partialy done)
    - [ ] BTD5 Sign
      - [x] Expansion
-     - [ ] Vanilla (8 Planned next)
+     - [ ] Vanilla
    - [x] Lab
    - [x] Temple
-     -  Random missions (**No**)
-   - Achievements (idk wont do)
+     -  Random missions (not yet)
+   - Achievements (not yet)
 - [x] Maps
-- [ ] Events like Bloonvasion and quests (7 Planned next)
+- [ ] Events like Bloonvasion and quests (
 - [ ] In Game
   - [x] Tower names
-  - [ ] Upgrade names (1 Planned next)
-  - [ ] Tower Desc (5 Planned next)
-  - [ ] Upgrade Desc (6 Planned next)
-  - [ ] Special Agents (2 Planned next)
+  - [ ] Upgrade names 
+  - [ ] Tower Desc 
+  - [ ] Upgrade Desc 
+  - [ ] Special Agents 
   - [x] Hints
   - [x] Tips on game over
   - [x] Tips
