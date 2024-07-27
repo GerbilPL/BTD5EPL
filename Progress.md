@@ -5,7 +5,7 @@ Version Pre-Release 2:
    - [x] Settings
    - [ ] Buildings
    - [x] Chest
-   - [ ] Mailman (partialy done)
+   - [x] Mailman
    - [ ] BTD5 Sign
      - [x] Expansion
      - [ ] Vanilla
@@ -14,7 +14,7 @@ Version Pre-Release 2:
      -  Random missions (not yet)
    - Achievements (not yet)
 - [x] Maps
-- [ ] Events like Bloonvasion and quests (
+- [ ] Events like Bloonvasion and quests
 - [ ] In Game
   - [x] Tower names
   - [ ] Upgrade names 
