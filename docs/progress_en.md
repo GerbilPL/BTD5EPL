@@ -1,6 +1,6 @@
 # Translation progress for Expansion 12
 
-Version Genesis:
+Version Geneza:
  - [ ] Main menu
    - [x] Premium Store
    - [x] Settings
