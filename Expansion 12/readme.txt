@@ -15,7 +15,7 @@ Jak zainstalować:
 
 ENGLISH:
 
-Polish translation files for BTD5 4.4 and BTD5 Expansion 12. Version: Geneza
+Polish translation files for BTD5 4.4 and BTD5 Expansion 12. Version: Genesis
 
 Credits: GerbilPL - main translator, pelletsstarPL - translation help, cosmo - translation help (pending)
 
