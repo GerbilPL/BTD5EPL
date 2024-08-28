@@ -28,7 +28,7 @@ Lub zapytaj Shaiko o informacje.<br>
 Shaiko - modyfikacja BTD5 Expansion, czcionki i pomoc<br>
 GerbilPL - tłumaczenie na język polski<br>
 pelletsstarPL - pomoc w tłumaczeniu<br>
-cosmo - pomoc w tłumaczeniu (oczekujące)<br><br>
+cosmo - pomoc w tłumaczeniu<br><br>
 
 
 ### FAQ - Często zadawane pytania
