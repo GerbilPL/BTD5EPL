@@ -2,7 +2,7 @@ POLSKI:
 
 Pliki spolszczenia dla BTD5 4.4 i BTD5 Expansion 12. Wersja: Genesis
 
-Zasługi: GerbilPL - główny tłumacz, pelletsstarPL - pomoc w tłumaczeniu, cosmo - pomoc w tłumaczeniu
+Zasługi: Shaiko - modyfikacja do BTD5, GerbilPL - główny tłumacz, pelletsstarPL - pomoc w tłumaczeniu, cosmo - pomoc w tłumaczeniu
 
 Jak zainstalować:
 - Upewnij się że wersja gry odpowiada informacji u góry.
@@ -17,7 +17,7 @@ ENGLISH:
 
 Polish translation files for BTD5 4.4 and BTD5 Expansion 12. Version: Genesis
 
-Credits: GerbilPL - main translator, pelletsstarPL - translation help, cosmo - translation help
+Credits: Shaiko - BTD5 mod, GerbilPL - main translator, pelletsstarPL - translation help, cosmo - translation help
 
 How to install:
 - Make sure that game version matches info at the top.
