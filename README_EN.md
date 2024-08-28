@@ -30,7 +30,7 @@ Or ask Shaiko for information.<br>
 Shaiko - BTD5 Expansion mod, fonts, and assistance<br>
 GerbilPL - Polish translation<br>
 pelletsstarPL - Translation assistance<br>
-cosmo - Translation assistance (pending)<br><br>
+cosmo - Translation assistance<br><br>
 
 ### FAQ - Frequently Asked Questions
 *I’m not sure how often, but I’ll prepare at least a few answers for the future.*<br><br>
