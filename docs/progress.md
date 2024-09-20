@@ -1,10 +1,10 @@
 # Postęp tłumaczeń dla Expansion 12
 
-Wersja Genesis:
+Wersja Harapan:
  - [ ] Menu główne
    - [x] Sklep Premium
    - [x] Ustawienia
-   - [ ] Budynki
+   - [x] Budynki
    - [x] Skrzynia
    - [x] Listonosz
    - [ ] Znak BTD5
