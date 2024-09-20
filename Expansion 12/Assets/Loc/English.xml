@@ -34,8 +34,8 @@
     <T id="LOC_TIMEFORMAT_DAYS" l="0"> %d Dzień(ni)</T>
     <T id="LOC_TIMEFORMAT_D_H_M_S" l="0"> %d Dzień(ni) %d:%02d:%02d</T>
     <T id="LOC_TIMEFORMAT_H_M_S" l="0"> %d:%02d:%02d</T>
-    <T id="LOC_TIMEFORMAT_D_H" l="0">%dd %dh</T>
-    <T id="LOC_TIMEFORMAT_H_M" l="0">%dh %dm</T>
+    <T id="LOC_TIMEFORMAT_D_H" l="0">%dd %dg</T>
+    <T id="LOC_TIMEFORMAT_H_M" l="0">%dg %dm</T>
     <T id="LOC_TIMEFORMAT_M_S" l="0">%dm %ds</T>
     <T id="LOC_TIMEFORMAT_S" l="0">%ds</T>
     <T id="LOC_TIMEFORMAT_D_H_M_long" l="0">%d dni %d godz %d min</T>
@@ -71,7 +71,6 @@ Proszę pobrać najnowszą wersję aby kontynuować.</T>
 	<T id="LOC_AD_TRACKING" l="0">Bloons TD 5 jest wspierane przez reklamy.\n\nProsimy o pozwolenie na śledzenie niewielkiej ilości danych, aby móc wyświetlać bardziej odpowiednie reklamy. To nie zmienia liczby wyświetlanych reklam, ale miejmy nadzieję, że będą one dla Ciebie bardziej interesujące.\n\nDane te będą przechowywane bezpiecznie i nie będą wykorzystywane do innych celów.</T>
 
 
-
 	<!--# MAIN MENU -->
 
 
@@ -88,8 +87,8 @@ Proszę pobrać najnowszą wersję aby kontynuować.</T>
     
     
     <T id="LOC_MM_QuickPlay" l="0">Szybka Gra</T>
-	<T id="LOC_PRESENT_Label" l="0">Popuj %s Bloonów Aby Otworzyć</T> <!-- %s will be replaced by a number. e.g: "Pop 2,000,000 Bloons To Open" -->
-	<T id="LOC_PRESENT_Label_one" l="0">Popuj 1 Bloon Aby Otworzyć</T> <!-- for use when we only have 1 bloon to go -->
+	<T id="LOC_PRESENT_Label" l="0">Zniszcz %s Bloonów Aby Otworzyć</T> <!-- %s will be replaced by a number. e.g: "Pop 2,000,000 Bloons To Open" -->
+	<T id="LOC_PRESENT_Label_one" l="0">Zniszcz 1 Bloon Aby Otworzyć</T> <!-- for use when we only have 1 bloon to go -->
 	
 	<!--# BUILDING NAMES (scrolling main menu) -->
 	<T id="LOC_MM_BUILDING_Temple" l="0">GRAJ</T>
@@ -109,16 +108,16 @@ Proszę pobrać najnowszą wersję aby kontynuować.</T>
 	
 	<!--# BTD5 WELCOME TEXT -->
 	<T id="LOC_WELC_TITLE" l="0">WITAJ!</T>
-	<T id="LOC_WELC_TEXT_iOS" l="0">It’s time to test your skills on 2 brand new tracks, Country Road and U-Turn.
-		
-Country Road is an intermediate track with a reasonable degree of difficulty, while the advanced difficulty of U-Turn will test even the most confident players. Do you have what it takes to gain bronze, silver, and gold medals?
-		
-Both tracks are also available for Co-Pop play!</T>
-	<T id="LOC_WELC_TEXT_Android" l="0">It’s time to test your skills on 2 brand new tracks, Country Road and U-Turn.
-		
-Country Road is an intermediate track with a reasonable degree of difficulty, while the advanced difficulty of U-Turn will test even the most confident players. Do you have what it takes to gain bronze, silver, and gold medals?
-		
-Both tracks are also available for Co-Pop play!</T>
+	<T id="LOC_WELC_TEXT_iOS" l="0">Czas przetestować swoje umiejętności na 2 zupełnie nowych trasach: Droga Wiejska i Zakręt.
+
+Droga Wiejska to trasa o średnim poziomie trudności, natomiast zaawansowany poziom Zakrętu sprawdzi nawet najbardziej pewnych siebie graczy. Czy masz to, czego potrzeba, aby zdobyć brązowe, srebrne i złote medale?
+
+Obie trasy są również dostępne do gry w trybie współpracy Co-Pop!</T>
+<T id="LOC_WELC_TEXT_Android" l="0">Czas przetestować swoje umiejętności na 2 zupełnie nowych trasach: Droga Wiejska i Zakręt.
+
+Droga Wiejska to trasa o średnim poziomie trudności, natomiast zaawansowany poziom Zakrętu sprawdzi nawet najbardziej pewnych siebie graczy. Czy masz to, czego potrzeba, aby zdobyć brązowe, srebrne i złote medale?
+
+Obie trasy są również dostępne do gry w trybie współpracy Co-Pop!</T>
 	
 	
 	<!--# HELP POPUPS -->
@@ -411,7 +410,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_GUI_MISC_START" l="0">Start</T>
 	<T id="LOC_GUI_MISC_RANDOM" l="0">Losowe</T>
 	<T id="LOC_GUI_MISC_RESET" l="0">Resetuj</T>
-	<T id="LOC_GUI_MISC_AllySide" l="0">Obszar Budowania Co-Popa.\nNie możesz tu nic budować.</T>
+	<T id="LOC_GUI_MISC_AllySide" l="0">Obszar budowania Co-Popa.\nNie możesz tu nic budować.</T>
 	<T id="LOC_GUI_MISC_BuildTowersHere" l="0">Buduj swoje wieżyczki po tej stronie toru.</T>
 	<T id="LOC_GUI_MISC_SERVER_ID" l="0">ID Serwera: %s</T>
 
@@ -463,7 +462,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_ODYSSEY_INFO_EXPIRY_NEWLINE" l="0">Wygasa:\n%s</T>
     <T id="LOC_ODYSSEY_INFO_REWARD" l="0"></T>
     <T id="LOC_ODYSSEY_INFO_REWARD_TITLE" l="0">Nagrody</T>
-    <T id="LOC_ODYSSEY_INFO_LIVESREMAINING" l="0">%d Żyć Pozostało!</T>
+    <T id="LOC_ODYSSEY_INFO_LIVESREMAINING" l="0">Pozostało %d żyć!</T>
     <T id="LOC_ODYSSEY_MAPS" l="0">%d Tory(ów)</T>
     <T id="LOC_ODYSSEY_MAPS_PROGRESS" l="0">%d / %d Torów</T>
  	<T id="LOC_ODYSSEY_COMPLETE_INFO" l="0">UKOŃCZONO</T>
@@ -539,7 +538,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <!--# DAILY CHALLENGE -->
     <T id="LOC_DAILY_CHALLENGE_Title" l="0">CODZIENNE WYZWANIE</T>
     <T id="LOC_DAILY_CHALLENGE_Spin" l="0">Zakręć!</T>
-    <T id="LOC_DAILY_CHALLENGE_CompletedThisWeek" l="0">%i/28 Ukończonych W Tym Tygodniu</T>
+    <T id="LOC_DAILY_CHALLENGE_CompletedThisWeek" l="0">%i/28 ukończonych w tym tygodniu</T>
     <T id="LOC_DAILY_CHALLENGE_SpinTomorrow" l="0">Zakręć ponownie jutro!</T>
     <T id="LOC_DAILY_CHALLENGE_Spinning" l="0">Kręcenie...</T>
     <T id="LOC_DAILY_CHALLENGE_Confirm" l="0">Zakręcić ponownie?</T>
@@ -605,7 +604,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_WEEKLYLB_Global" l="0">Globalne</T>
     <T id="LOC_WEEKLYLB_Friends" l="0">Przyjaciele</T>
     <T id="LOC_WEEKLYLB_Help_Title" l="0">Cotygodniowe Tabice Wyników</T>
-    <T id="LOC_WEEKLYLB_Requirements" l="0">Popuj %1$s na %2$s torach</T>  <!--@ e.g. Pop Red Bloons on Beginner tracks -->
+    <T id="LOC_WEEKLYLB_Requirements" l="0">Zniszcz %1$s na %2$s torach</T>  <!--@ e.g. Pop Red Bloons on Beginner tracks -->
     <T id="LOC_WEEKLYLB_Requirements_All_Bloons" l="0">wszystkie bloony</T>        <!--@  used in  %1$s in LOC_WEEKLYLB_Requirements -->
     <T id="LOC_WEEKLYLB_Requirements_All" l="0">wszystkich</T>                 <!--@ used in  %2$s in LOC_WEEKLYLB_Requirements-->
     <T id="LOC_WEEKLYLB_GetRewards" l="0">Gratulacje! Zająłeś %s miejsce w cotygodniowej tabeli liderów i wygrałeś nagrodę!</T>  <!--@ %s will be replaced with Gold/Silver/Bronze/Impoppable -->
@@ -627,7 +626,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_CHALLENGE_MISC_CHALLENGES" l="0">WYZWANIA</T>
 	<T id="LOC_CHALLENGE_MISC_NO_CHALLENGES" l="0">BRAK WYZWAŃ</T>
 	<T id="LOC_CHALLENGE_MISC_Complete" l="0">Ukończono </T>		<!--@ "Complete " + <challenge title> -->
-	<T id="LOC_CHALLENGE_MISC_Pop_n" l="0">Popuj %llu bloonów</T>	<!--@ "Pop 10000 bloons" -->
+	<T id="LOC_CHALLENGE_MISC_Pop_n" l="0">Zniszcz %llu bloonów</T>	<!--@ "Pop 10000 bloons" -->
 	
 	<!--#
 	<T id="LOC_CHALLENGE_MISC_" l="0"></T>
@@ -994,7 +993,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
 	<T id="LOC_TOWER_DESC_MortarTower" l="0">Launches explosive mortar shells to a single targeted spot.</T>
 	<T id="LOC_TOWER_DESC_NinjaMonkey" l="0">Throws sharp shurikens rapidly and can see Camo bloons.</T>
 	<T id="LOC_TOWER_DESC_NinjaKiwi" l="0">Ninja Kiwi kopie tak szybko że blóny latają do tyłu.</T>
-	<T id="LOC_TOWER_DESC_NinjaKiwiPro" l="0">Pro-Ulepszenie - Jeszcze szybszę kopy które teraż też ołów zniszczyć mogą.</T>
+	<T id="LOC_TOWER_DESC_NinjaKiwiPro" l="0">Pro-Ulepszenie - Jeszcze szybsze kopy które teraż mogą też zniszczyć ołów.</T>
 	<T id="LOC_TOWER_DESC_Pontoon" l="0">The best selection of Captain Cassie's comrades with powerful pistols and pirate skills. More efficient near a Buccaneer.</T>
 	<T id="LOC_TOWER_DESC_PontoonPro" l="0">Place almost any land tower on water with the Pontoon! Deploy the pontoon on water, then place your land tower on top.</T>
 	<T id="LOC_TOWER_DESC_PortableLake" l="0">Nowhere to float your boat? Smart monkeys know they can place a Portable Lake on land, allowing any water unit to be deployed within its waters.</T>
@@ -1742,7 +1741,7 @@ Wszelkie pakiety Małpiej Gotówki zakupione w sklepie również zostaną podwoj
     <T id="LOC_PREM_DESC_HunterSniperMonkey" l="0">Małpi Snajper i jego ulepszenia polują na wielkie balony! Tylko zmiana wizualna.</T>
     <T id="LOC_PREM_TITLE_TribalBoomerangThrower" l="0">Skórka Plemiennych Małpek</T>
     <T id="LOC_PREM_DESC_TribalBoomerangThrower" l="0">Małpa Bumerangowa i jej ulepszenia stają się tubylcami! Tylko zmiana wizualna.</T>
-    <T id="LOC_PREM_TITLE_CandyBananaFarm" l="0">Paczka Słodkich Skórek</T>
+    <T id="LOC_PREM_TITLE_CandyBananaFarm" l="0">Słodkie Skórki</T>
     <T id="LOC_PREM_DESC_CandyBananaFarm" l="0">Farma Bananów, Małpi Farmer i Strzelacz Kulek zyskują ogromny wzrost kalorii. Tylko zmiana wizualna.\n\nW tej ofercie: Cukierkowa Farma &amp; Farmer, Sztrzelacz Puddingu</T>
     <T id="LOC_PREM_TITLE_TopgunMonkeyAce" l="0">Skórka Asa Topgun</T>
     <T id="LOC_PREM_DESC_TopgunMonkeyAce" l="0">Małpi As i jego ulepszenia odczuwają potrzebę... potrzebę szybkości! Tylko zmiana wizualna.</T>
@@ -1839,7 +1838,7 @@ Visual change only.</T>
 	<T id="LOC_HINT_84" l="0">Jeśli grasz na trudnym poziomie trudności, dobrze poradziłeś sobie, by zajść tak daleko. Oczywiście to wszystko skończy się na następnym poziomie.</T>
 	<T id="LOC_HINT_84_impoppable" l="0">To jest ostatni odcinek. Jeśli zdołasz przejść do 100 rundy, naprawdę podbijesz ten tor. Jednak prawdopodobnie nie. Przynajmniej dobrze się bawiłeś..</T>
 	<T id="LOC_HINT_86" l="0">Pokonałeś ZOMG. Czy masz to, czego potrzeba, aby pokonać DDT i supergromady MOABów?</T>
-	<T id="LOC_HINT_101" l="0">Nasz tłumacz daje ci żeton na szczęście. Chroń małpy od bloonów!</T>
+	<T id="LOC_HINT_101" l="0">Gratulacje za przejście ostatniej rundy. Otrzymujesz żeton.</T>
 	
 	<!--# TIPS -->
 	<T id="LOC_TIP_TITLE_1" l="0">Czarne &amp; Białe Bloony</T>
@@ -1850,7 +1849,7 @@ Visual change only.</T>
 	<T id="LOC_TIP_TITLE_6" l="0">Boss Bloony</T>
 	<T id="LOC_TIP_TITLE_7" l="0">ZOMG Bloony</T>
 	<T id="LOC_TIP_TITLE_8" l="0">Specjalni Agenci</T>
-	<T id="LOC_TIP_TITLE_9" l="0">Aktywalne Zdolności</T>
+	<T id="LOC_TIP_TITLE_9" l="0">Aktywowalne Zdolności</T>
 	<T id="LOC_TIP_TITLE_10" l="0">Farma Bananow</T>
 	<T id="LOC_TIP_TITLE_11" l="0">Helikopter</T>
 	<T id="LOC_TIP_TITLE_12" l="0">Free Play</T>
@@ -1887,13 +1886,13 @@ Visual change only.</T>
 	
 	<!--# GAME OVER TIP -->
 	<T id="LOC_GO_TIP_1" l="0">Małpie Czarodziejki z ulepszeniami Małpiego Zmysłu mogą przebić bloony Kamos</T>
-	<T id="LOC_GO_TIP_2" l="0">Strzelce Dartlinga i Fabryki Gwoździ popują Kamo bez ulepszeń</T>
+	<T id="LOC_GO_TIP_2" l="0">Strzelce Dartlinga i Fabryki Gwoździ zniszczą Kamo bez ulepszeń</T>
 	<T id="LOC_GO_TIP_3" l="0">Bloony z Kamo-Ołów są okrutne! Wypróbuj Pirata z armatami lub Ninja z Bombami Błyskowymi</T>
 	<T id="LOC_GO_TIP_4" l="0">Runda 59 ma trudne Kamo Ołowiaki. Wypróbuj Małpie Czarodziejki z Małpim Zmysłem lub Fabryki Białych Gorących Gwoździ</T>
 	<T id="LOC_GO_TIP_5" l="0">Bloony z Kamo-Ołów są okrutne! Dodaj surykatkę lub wioskę ze skanerem radarowym do Strzelców Bomb</T>
 	<T id="LOC_GO_TIP_6" l="0">Spowolniaj bloony ceramiczne lodem lub klejem, aby inne wieże zdzierały ich warstwy</T>
 	<T id="LOC_GO_TIP_7" l="0">Pierwszy MOAB pojawia się w rundzie 46 i wymaga setek trafień. Bądź gotów!</T>
-	<T id="LOC_GO_TIP_8" l="0">Popuj bloony Regen szybko, aby powstrzymać ich odrastanie lub powielanie!</T>
+	<T id="LOC_GO_TIP_8" l="0">Zniszcz bloony Regen szybko, aby powstrzymać ich odrastanie lub powielanie!</T>
 	<T id="LOC_GO_TIP_9" l="0">Strzelce Bomb z ulepszeniem MOAB Mauler zadają duże obrażenia balonom klasy MOAB</T>
 	<T id="LOC_GO_TIP_10" l="0">Nawet balony klasy MOAB są podatne na wysoką szybkostrzelność Super Małpy</T>
 	<T id="LOC_GO_TIP_11" l="0">Gotówka z Farm Bananów może być niezbędna do wygrywania na trudniejszych poziomach trudności</T>
@@ -1908,161 +1907,161 @@ Visual change only.</T>
 	
 	
 	<!--# SPECIALTY BUILDINGS -->
-	<T id="LOC_SPEC_Ace" l="0">Ace Private Hangar</T>
-	<T id="LOC_SPEC_Ace_CAPS" l="0">ACE PRIVATE HANGAR</T>
-	<T id="LOC_SPEC_Ace_I" l="0">Reduces Monkey Ace tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Ace_II" l="0">Gun Coolant\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Ace_III" l="0">Mounted Dartlings\n\nAdds fast-firing forward gunners</T>
-	<T id="LOC_SPEC_Ace_IV" l="0">Pivot Joints\n\nForward gunners can shoot all directions</T>
-	<T id="LOC_SPEC_Ace_X" l="0">Increases the cost of Monkey Buccaneers and upgrades by 5%</T>
-	
-	<T id="LOC_SPEC_Chipper" l="0">Al's Custom Chippers</T>
-	<T id="LOC_SPEC_Chipper_CAPS" l="0">AL'S CUSTOM CHIPPERS</T>
-	<T id="LOC_SPEC_Chipper_I" l="0">Reduces Bloonchipper tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Chipper_II" l="0">High Pile\n\nIncreases the range of Bloonchippers by 10%</T>
-	<T id="LOC_SPEC_Chipper_III" l="0">Blunt Trauma\n\nAny bloons that emerge are dazed and slowed briefly</T>
-	<T id="LOC_SPEC_Chipper_IV" l="0">Banana Vacuum\n\nBloonchipper collects nearby bananas automatically</T>
-	<T id="LOC_SPEC_Chipper_X" l="0">Increases the cost of Monkey Engineers and upgrades by 5%</T>
-	
+	<T id="LOC_SPEC_Ace" l="0">Prywatny Hangar Ace</T>
+	<T id="LOC_SPEC_Ace_CAPS" l="0">PRYWATNY HANGAR ACE</T>
+	<T id="LOC_SPEC_Ace_I" l="0">Zmniejsza koszt wieży Małpich Samolotów i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Ace_II" l="0">Chłodziwo do Dział\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Ace_III" l="0">Montaż Działek\n\nDodaje szybkostrzelnych strzelców z przodu</T>
+	<T id="LOC_SPEC_Ace_IV" l="0">Przeguby Obrotowe\n\nPrzedni strzelcy mogą strzelać we wszystkie strony</T>
+	<T id="LOC_SPEC_Ace_X" l="0">Zwiększa koszt Małpich Piratów i ich ulepszeń o 5%</T>
+
+	<T id="LOC_SPEC_Chipper" l="0">Specjalne Dziury Al’a</T>
+	<T id="LOC_SPEC_Chipper_CAPS" l="0">SPECJALNE DZIURY AL’A</T>
+	<T id="LOC_SPEC_Chipper_I" l="0">Zmniejsza koszt wieży Dziur Bloonchipper i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Chipper_II" l="0">Wysoka Sterta\n\nZwiększa zasięg Bloonchipperów o 10%</T>
+	<T id="LOC_SPEC_Chipper_III" l="0">Tępe Uderzenie\n\nBalony, które wychodzą, są oszołomione i chwilowo spowolnione</T>
+	<T id="LOC_SPEC_Chipper_IV" l="0">Banana Odkurzacz\n\nBloonchipper automatycznie zbiera pobliskie banany</T>
+	<T id="LOC_SPEC_Chipper_X" l="0">Zwiększa koszt Małpich Inżynierów i ich ulepszeń o 5%</T>
+
 	<T id="LOC_SPEC_MonkeySub" l="0">Stocznia Okrętów Podwodnych</T>
-	<T id="LOC_SPEC_MonkeySub_CAPS" l="0">SUB CONSTRUCTION YARD</T>
-	<T id="LOC_SPEC_MonkeySub_I" l="0">Reduces Monkey Sub tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_MonkeySub_II" l="0">Accelerated Torp-e-darts\n\nIncreases projectile speed of Monkey Subs by 25%</T>
-	<T id="LOC_SPEC_MonkeySub_III" l="0">Quad Burst\n\nMakes airburst darts split into 4 instead of 3</T>
-	<T id="LOC_SPEC_MonkeySub_IV" l="0">Defibrillator\n\nSubmerged Subs sonar also shocks Regrowth bloons into normal bloons</T>
-	<T id="LOC_SPEC_MonkeySub_X" l="0">Increases the cost of Heli Pilots and upgrades by 5%</T>
-	
-	<T id="LOC_SPEC_Bomb" l="0">Bombing Range</T>
-	<T id="LOC_SPEC_Bomb_CAPS" l="0">BOMBING RANGE</T>
-	<T id="LOC_SPEC_Bomb_I" l="0">Reduces Bomb Shooter tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Bomb_II" l="0">Autocannon\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Bomb_III" l="0">Violent Impact\n\nBombs can pop black and zebra bloons</T>
-	<T id="LOC_SPEC_Bomb_IV" l="0">Bottle Rocket\n\nDoubles all Bomb Shooter ranges temporarily (Activated Ability)</T>
-	<T id="LOC_SPEC_Bomb_X" l="0">Increases the cost of Spike Factories and upgrades by 5%</T>
-	
-	<T id="LOC_SPEC_Boomerang" l="0">Boomerang Dojo</T>	
-	<T id="LOC_SPEC_Boomerang_CAPS" l="0">BOOMERANG DOJO</T>
-	<T id="LOC_SPEC_Boomerang_I" l="0">Reduces Boomerang Monkey tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Boomerang_II" l="0">Faster Rangs\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Boomerang_III" l="0">Recurring 'Rangs\n\nBoomerangs fly one more circuit if able</T>
-	<T id="LOC_SPEC_Boomerang_IV" l="0">Double Ranga\n\nThrows 2 boomerangs at once</T>
-	<T id="LOC_SPEC_Boomerang_X" l="0">Increases the cost of Dart Monkeys and upgrades by 5%</T>
-	
+	<T id="LOC_SPEC_MonkeySub_CAPS" l="0">STOCZNIA OKRĘTÓW PODWODNYCH</T>
+	<T id="LOC_SPEC_MonkeySub_I" l="0">Zmniejsza koszt wieży Małpich Okrętów Podwodnych i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_MonkeySub_II" l="0">Przyspieszone Torpedo-Darty\n\nZwiększa prędkość pocisków Małpich Okrętów Podwodnych o 25%</T>
+	<T id="LOC_SPEC_MonkeySub_III" l="0">Poczwórny Wystrzał\n\nDarty wybuchowe rozdzielają się na 4 zamiast 3</T>
+	<T id="LOC_SPEC_MonkeySub_IV" l="0">Defibrylator\n\nSonar zanurzonych Okrętów Podwodnych zmienia Regenerujące Balony w normalne</T>
+	<T id="LOC_SPEC_MonkeySub_X" l="0">Zwiększa koszt Małpich Helikopterów i ich ulepszeń o 5%</T>
+
+	<T id="LOC_SPEC_Bomb" l="0">Pole Bombowe</T>
+	<T id="LOC_SPEC_Bomb_CAPS" l="0">POLE BOMBOWE</T>
+	<T id="LOC_SPEC_Bomb_I" l="0">Zmniejsza koszt wieży Działo Bombowe i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Bomb_II" l="0">Autokanon\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Bomb_III" l="0">Gwałtowny Wybuch\n\nBomby mogą zniszczyć czarne i zebrowe balony</T>
+	<T id="LOC_SPEC_Bomb_IV" l="0">Rakieta Butelkowa\n\nPodwaja zasięg wszystkich Dział Bombowych tymczasowo (Używana zdolność)</T>
+	<T id="LOC_SPEC_Bomb_X" l="0">Zwiększa koszt Fabryk Kolców i ich ulepszeń o 5%</T>
+
+	<T id="LOC_SPEC_Boomerang" l="0">Dojo Bumerangów</T>
+	<T id="LOC_SPEC_Boomerang_CAPS" l="0">DOJO BUMERANGÓW</T>
+	<T id="LOC_SPEC_Boomerang_I" l="0">Zmniejsza koszt wieży Małpy Bumerangu i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Boomerang_II" l="0">Szybsze Bumerangi\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Boomerang_III" l="0">Powracające Bumerangi\n\nBumerangi wykonują jeszcze jeden krąg, jeśli to możliwe</T>
+	<T id="LOC_SPEC_Boomerang_IV" l="0">Podwójny Bumerang\n\nRzuca dwa bumerangi naraz</T>
+	<T id="LOC_SPEC_Boomerang_X" l="0">Zwiększa koszt Małp Rzutek i ich ulepszeń o 5%</T>
+
 	<T id="LOC_SPEC_Dartling" l="0">Zrzut Amunicji Darlingów</T>
-	<T id="LOC_SPEC_Dartling_CAPS" l="0">DARTLING AMMO DUMP</T>
-	<T id="LOC_SPEC_Dartling_I" l="0">Reduces Dartling Gunner tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Dartling_II" l="0">Dartling Coolant\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Dartling_III" l="0">Lock and Load\n\nDartling gunners can lock their attacks to a set target</T>
-	<T id="LOC_SPEC_Dartling_IV" l="0">Blessed Dart\n\nAll Dartling shots gain +1 pierce, and Ray of Doom gains +1 damage.</T>
-	<T id="LOC_SPEC_Dartling_X" l="0">Increases the cost of Mortar Monkeys and upgrades by 5%</T>
-	
-	<T id="LOC_SPEC_Dart" l="0">Dart Training Facility</T>
-	<T id="LOC_SPEC_Dart_CAPS" l="0">DART TRAINING FACILITY</T>
-	<T id="LOC_SPEC_Dart_I" l="0">Reduces Dart Monkey tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Dart_II" l="0">Quick Shots\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Dart_III" l="0">Bonus Monkeys\n\n1 free dart monkey to start, then every 10 rounds</T>
-	<T id="LOC_SPEC_Dart_IV" l="0">Splodey Darts\n\nMakes dart monkey darts explosive!</T>
-	<T id="LOC_SPEC_Dart_X" l="0">Increases the cost of Boomerang Monkeys and upgrades by 5%</T>
-	
+	<T id="LOC_SPEC_Dartling_CAPS" l="0">ZRZUT AMUNICJI DARLINGÓW</T>
+	<T id="LOC_SPEC_Dartling_I" l="0">Zmniejsza koszt wieży Działa Darlinga i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Dartling_II" l="0">Chłodziwo Darlinga\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Dartling_III" l="0">Zablokuj i Wystrzel\n\nDziała Darlinga mogą zablokować swój atak na ustalony cel</T>
+	<T id="LOC_SPEC_Dartling_IV" l="0">Błogosławiona Strzała\n\nWszystkie strzały Darlingów zyskują +1 penetracji, a Promień Zagłady zyskuje +1 obrażeń</T>
+	<T id="LOC_SPEC_Dartling_X" l="0">Zwiększa koszt Małp Moździerzy i ich ulepszeń o 5%</T>
+
+	<T id="LOC_SPEC_Dart" l="0">Ośrodek Szkolenia Rzutek</T>
+	<T id="LOC_SPEC_Dart_CAPS" l="0">OŚRODEK SZKOLENIA RZUTEK</T>
+	<T id="LOC_SPEC_Dart_I" l="0">Zmniejsza koszt wieży Małpy Rzutek i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Dart_II" l="0">Szybkie Rzutki\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Dart_III" l="0">Darmowe Małpy\n\n1 darmowa Małpa Rzutek na start, potem co 10 rund</T>
+	<T id="LOC_SPEC_Dart_IV" l="0">Eksplozyjne Rzutki\n\nDarty Małp Rzutek stają się wybuchowe!</T>
+	<T id="LOC_SPEC_Dart_X" l="0">Zwiększa koszt Małp Bumerangów i ich ulepszeń o 5%</T>
+
 	<T id="LOC_SPEC_Engineer" l="0">Warsztat Inżyniera</T>
-	<T id="LOC_SPEC_Engineer_CAPS" l="0">ENGINEERS WORKSHOP</T>
-	<T id="LOC_SPEC_Engineer_I" l="0">Reduces Monkey Engineer tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Engineer_II" l="0">Built for Speed\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Engineer_III" l="0">Oversize Nails\n\nNail guns and turrets pop lead and frozen bloons</T>
-	<T id="LOC_SPEC_Engineer_IV" l="0">Sentry Expert\n\nBuilds Super Sentries. Bigger, faster, last longer</T>
-	<T id="LOC_SPEC_Engineer_X" l="0">Increases the cost of Bloonchippers and their upgrades by 5%</T>
+	<T id="LOC_SPEC_Engineer_CAPS" l="0">WARSZTAT INŻYNIERA</T>
+	<T id="LOC_SPEC_Engineer_I" l="0">Zmniejsza koszt wieży Małpiego Inżyniera i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Engineer_II" l="0">Zbudowany dla Szybkości\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Engineer_III" l="0">Duże Gwoździe\n\nDziała na gwoździe i wieżyczki zadają obrażenia balonom ołowianym i zamrożonym</T>
+	<T id="LOC_SPEC_Engineer_IV" l="0">Ekspert Wieżyczek\n\nBuduje Super Wieżyczki. Większe, szybsze, trwalsze</T>
+	<T id="LOC_SPEC_Engineer_X" l="0">Zwiększa koszt Dziur Bloonchipper i ich ulepszeń o 5%</T>
 	
-	<T id="LOC_SPEC_Glue" l="0">Glue Supply Depot</T>
-	<T id="LOC_SPEC_Glue_CAPS" l="0">GLUE SUPPLY DEPOT</T>
-	<T id="LOC_SPEC_Glue_I" l="0">Reduces Glue Gunner tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Glue_II" l="0">Stronger Glue\n\nIncreases glue slowdown by 10%</T>
-	<T id="LOC_SPEC_Glue_III" l="0">Relentless Glue\n\nPopped bloons leave glue on the track</T>
-	<T id="LOC_SPEC_Glue_IV" l="0">Super Glue\n\nAll glue slows bloons by an additional 15%</T>
-	<T id="LOC_SPEC_Glue_X" l="0">Increases the cost of Ice Monkeys and upgrades by 5%</T>
+	<T id="LOC_SPEC_Glue" l="0">Magazyn Kleju</T>
+	<T id="LOC_SPEC_Glue_CAPS" l="0">MAGAZYN KLEJU</T>
+	<T id="LOC_SPEC_Glue_I" l="0">Zmniejsza koszt wieży i ulepszeń Wieżyczki z Klejem o 5%</T>
+	<T id="LOC_SPEC_Glue_II" l="0">Mocniejszy Klej\n\nZwiększa spowolnienie kleju o 10%</T>
+	<T id="LOC_SPEC_Glue_III" l="0">Nieustępliwy Klej\n\nPęknięte balony zostawiają klej na torze</T>
+	<T id="LOC_SPEC_Glue_IV" l="0">Super Klej\n\nWszystkie kleje spowalniają balony o dodatkowe 15%</T>
+	<T id="LOC_SPEC_Glue_X" l="0">Zwiększa koszt Wieżyczek z Lodem i ulepszeń o 5%</T>
 	
-	<T id="LOC_SPEC_Heli" l="0">Heli Hangar</T>
-	<T id="LOC_SPEC_Heli_CAPS" l="0">HELI HANGAR</T>
-	<T id="LOC_SPEC_Heli_I" l="0">Reduces Heli Pilot tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Heli_II" l="0">Airforce Upgrades\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Heli_III" l="0">Portable Helipads\n\nHelipads take up 35% less room</T>
-	<T id="LOC_SPEC_Heli_IV" l="0">Hot Pursuit\n\nIn Pursuit mode, Heli Pilot flies much faster</T>
-	<T id="LOC_SPEC_Heli_X" l="0">Increases the cost of Monkey Subs and upgrades by 5%</T>
+	<T id="LOC_SPEC_Heli" l="0">Hangar Śmigłowców</T>
+	<T id="LOC_SPEC_Heli_CAPS" l="0">HANGAR ŚMIGŁOWCÓW</T>
+	<T id="LOC_SPEC_Heli_I" l="0">Zmniejsza koszt wieży i ulepszeń Pilota Śmigłowca o 5%</T>
+	<T id="LOC_SPEC_Heli_II" l="0">Ulepszenia Lotnictwa\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Heli_III" l="0">Przenośne Lądowiska\n\nLądowiska zajmują 35% mniej miejsca</T>
+	<T id="LOC_SPEC_Heli_IV" l="0">Gorący Pościg\n\nW trybie Pościgu, Pilot Śmigłowca lata znacznie szybciej</T>
+	<T id="LOC_SPEC_Heli_X" l="0">Zwiększa koszt Okrętów Podwodnych Małp i ulepszeń o 5%</T>
 	
 	<T id="LOC_SPEC_Ice" l="0">Lodowa Forteca</T>
-	<T id="LOC_SPEC_Ice_CAPS" l="0">ICE FORTRESS</T>
-	<T id="LOC_SPEC_Ice_I" l="0">Reduces Ice Monkey tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Ice_II" l="0">Shard of Everfrost\n\nIncreases freeze length by 10%</T>
-	<T id="LOC_SPEC_Ice_III" l="0">Ice Age\n\nIce Monkeys can freeze white and zebra bloons</T>
-	<T id="LOC_SPEC_Ice_IV" l="0">Camo Freeze\n\nDetects Camo, freezing removes Camo</T>
-	<T id="LOC_SPEC_Ice_X" l="0">Increases the cost of Glue Gunners and upgrades by 5%</T>
+	<T id="LOC_SPEC_Ice_CAPS" l="0">LODOWA FORTECA</T>
+	<T id="LOC_SPEC_Ice_I" l="0">Zmniejsza koszt wieży i ulepszeń Lodowej Małpy o 5%</T>
+	<T id="LOC_SPEC_Ice_II" l="0">Odłamek Wiecznego Mrozu\n\nZwiększa czas zamrożenia o 10%</T>
+	<T id="LOC_SPEC_Ice_III" l="0">Epoka Lodowcowa\n\nLodowe Małpy mogą zamrażać białe i zebrane balony</T>
+	<T id="LOC_SPEC_Ice_IV" l="0">Kamo Mrożenie\n\nWykrywa Kamo, zamrażanie usuwa Kamo</T>
+	<T id="LOC_SPEC_Ice_X" l="0">Zwiększa koszt Wieżyczek z Klejem i ulepszeń o 5%</T>
 	
-	<T id="LOC_SPEC_Mage" l="0">Mage Spire</T>	
-	<T id="LOC_SPEC_Mage_CAPS" l="0">MAGE SPIRE</T>
-	<T id="LOC_SPEC_Mage_I" l="0">Reduces Monkey Apprentice tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Mage_II" l="0">Fast Magic\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Mage_III" l="0">Guided Magic\n\nAdds an additional seeking bolt attack</T>
-	<T id="LOC_SPEC_Mage_IV" l="0">Tiny Tornadoes\n\nSends out 3 extra small tornadoes for every normal tornado</T>
-	<T id="LOC_SPEC_Mage_X" l="0">Increases the cost of Super Monkeys and upgrades by 5%</T>
+	<T id="LOC_SPEC_Mage" l="0">Wieża Maga</T>	
+	<T id="LOC_SPEC_Mage_CAPS" l="0">WIEŻA MAGA</T>
+	<T id="LOC_SPEC_Mage_I" l="0">Zmniejsza koszt wieży i ulepszeń Ucznia Małpy o 5%</T>
+	<T id="LOC_SPEC_Mage_II" l="0">Szybka Magia\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Mage_III" l="0">Prowadzona Magia\n\nDodaje dodatkowy szukający pocisk</T>
+	<T id="LOC_SPEC_Mage_IV" l="0">Małe Tornada\n\nWysyła 3 małe tornada za każdym razem, gdy tworzy normalne tornado</T>
+	<T id="LOC_SPEC_Mage_X" l="0">Zwiększa koszt Super Małp i ulepszeń o 5%</T>
 	
-	<T id="LOC_SPEC_Mortar" l="0">Mortar Emplacement</T>
-	<T id="LOC_SPEC_Mortar_CAPS" l="0">MORTAR EMPLACEMENT</T>
-	<T id="LOC_SPEC_Mortar_I" l="0">Reduces Mortar Monkey tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Mortar_II" l="0">Faster Reload\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Mortar_III" l="0">Shell Shock\n\nAll bloons hit by Mortars are stunned briefly</T>
-	<T id="LOC_SPEC_Mortar_IV" l="0">Self-Commanding\n\nAuto aims and shoots likes a regular tower</T>
-	<T id="LOC_SPEC_Mortar_X" l="0">Increases the cost of Dartling Gunners and upgrades by 5%</T>
+	<T id="LOC_SPEC_Mortar" l="0">Stanowisko Moździerzy</T>
+	<T id="LOC_SPEC_Mortar_CAPS" l="0">STANOWISKO MOŹDZIERZY</T>
+	<T id="LOC_SPEC_Mortar_I" l="0">Zmniejsza koszt wieży i ulepszeń Małpy z Moździerzem o 5%</T>
+	<T id="LOC_SPEC_Mortar_II" l="0">Szybsze Przeładowanie\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Mortar_III" l="0">Szokujący Pocisk\n\nWszystkie balony trafione przez Moździerz są krótko oszołomione</T>
+	<T id="LOC_SPEC_Mortar_IV" l="0">Autonaprowadzanie\n\nAutomatycznie celuje i strzela jak zwykła wieża</T>
+	<T id="LOC_SPEC_Mortar_X" l="0">Zwiększa koszt Dział Małpy i ulepszeń o 5%</T>
 	
 	<T id="LOC_SPEC_Ninja" l="0">Akademia Ninja</T>
-	<T id="LOC_SPEC_Ninja_CAPS" l="0">NINJA ACADEMY</T>
-	<T id="LOC_SPEC_Ninja_I" l="0">Reduces Ninja Monkey tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Ninja_II" l="0">Ninja Scrolls\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Ninja_III" l="0">Counter-Espionage\n\nUpgrading to Distraction allows Ninjas to remove Camo from bloons</T>
-	<T id="LOC_SPEC_Ninja_IV" l="0">Shadow Double\n\nCreates a Ninja shadow double (Activated Ability)</T>
-	<T id="LOC_SPEC_Ninja_X" l="0">Increases the cost of Sniper Monkeys and upgrades by 5%</T>
+	<T id="LOC_SPEC_Ninja_CAPS" l="0">AKADEMIA NINJA</T>
+	<T id="LOC_SPEC_Ninja_I" l="0">Zmniejsza koszt wieży i ulepszeń Małpy Ninja o 5%</T>
+	<T id="LOC_SPEC_Ninja_II" l="0">Zwoje Ninja\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Ninja_III" l="0">Kontrwywiad\n\nUlepszenie do Rozproszenia pozwala Ninjom usuwać Kamo z balonów</T>
+	<T id="LOC_SPEC_Ninja_IV" l="0">Cień Ninja\n\nTworzy cień Ninja (Aktywowana Zdolność)</T>
+	<T id="LOC_SPEC_Ninja_X" l="0">Zwiększa koszt Snajperskich Małp i ulepszeń o 5%</T>
 	
-	<T id="LOC_SPEC_Pirate" l="0">Pirate Cove</T>
-	<T id="LOC_SPEC_Pirate_CAPS" l="0">PIRATE COVE</T>
-	<T id="LOC_SPEC_Pirate_I" l="0">Reduces Monkey Buccaneer and Pirate Crew tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Pirate_II" l="0">Man the Cannons\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Pirate_III" l="0">Crow Crew\n\nAll Buccaneers and Crew detect Camo; Crows Nest grants detection nearby</T>
-	<T id="LOC_SPEC_Pirate_IV" l="0">Dreadnought\n\nReplaces attacks with flaming weapons</T>
-	<T id="LOC_SPEC_Pirate_X" l="0">Increases the cost of Monkey Aces and upgrades by 5%</T>
+	<T id="LOC_SPEC_Pirate" l="0">Zatoka Piratów</T>
+	<T id="LOC_SPEC_Pirate_CAPS" l="0">ZATOKA PIRATÓW</T>
+	<T id="LOC_SPEC_Pirate_I" l="0">Zmniejsza koszt wieży i ulepszeń Małpy Pirata i Pirackiej Załogi o 5%</T>
+	<T id="LOC_SPEC_Pirate_II" l="0">Na Działa\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Pirate_III" l="0">Krucza Załoga\n\nWszyscy Piraci i Załoga wykrywają Kamo; Gniazdo Kruków daje wykrywanie w pobliżu</T>
+	<T id="LOC_SPEC_Pirate_IV" l="0">Pancernik\n\nZastępuje ataki płonącymi pociskami</T>
+	<T id="LOC_SPEC_Pirate_X" l="0">Zwiększa koszt Lotniczych Małp i ulepszeń o 5%</T>
 	
-	<T id="LOC_SPEC_Sniper" l="0">Rifle Range</T>
-	<T id="LOC_SPEC_Sniper_CAPS" l="0">RIFLE RANGE</T>
-	<T id="LOC_SPEC_Sniper_I" l="0">Reduces Sniper Monkey tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Sniper_II" l="0">Quick Scope\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Sniper_III" l="0">Just One More\n\nEvery shot pops 1 more layer than normal</T>
-	<T id="LOC_SPEC_Sniper_IV" l="0">Shrapnel Shot\n\nShots from the Sniper burst into frags on impact</T>
-	<T id="LOC_SPEC_Sniper_X" l="0">Increases the cost of Ninja Monkeys and upgrades by 5%</T>
+	<T id="LOC_SPEC_Sniper" l="0">Strzelnica</T>
+	<T id="LOC_SPEC_Sniper_CAPS" l="0">STRZELNICA</T>
+	<T id="LOC_SPEC_Sniper_I" l="0">Zmniejsza koszt wieży i ulepszeń Snajperskiej Małpy o 5%</T>
+	<T id="LOC_SPEC_Sniper_II" l="0">Szybki Cel\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Sniper_III" l="0">Jeszcze Jeden\n\nKażdy strzał przebija 1 dodatkową warstwę balonu</T>
+	<T id="LOC_SPEC_Sniper_IV" l="0">Pocisk Odłamkowy\n\nStrzały ze Snajpera rozbijają się na odłamki po uderzeniu</T>
+	<T id="LOC_SPEC_Sniper_X" l="0">Zwiększa koszt Małp Ninja i ulepszeń o 5%</T>
 	
 	<T id="LOC_SPEC_Land" l="0">Zakup Ziemię</T>
-	<T id="LOC_SPEC_Land_CAPS" l="0">PURCHASE LAND</T>
-	<T id="LOC_SPEC_Land_I" l="0">Buy land to access each Specialty Buildings. Buildings enable 4 additional upgrades for their towers.</T>
+	<T id="LOC_SPEC_Land_CAPS" l="0">ZAKUP ZIEMIĘ</T>
+	<T id="LOC_SPEC_Land_I" l="0">Kup ziemię, aby uzyskać dostęp do Specjalnych Budynków. Budynki umożliwiają 4 dodatkowe ulepszenia dla ich wież.</T>
 		
 	<T id="LOC_SPEC_Spikes" l="0">Spikes R Us</T>
 	<T id="LOC_SPEC_Spikes_CAPS" l="0">SPIKES R US</T>
-	<T id="LOC_SPEC_Spikes_I" l="0">Reduces Spike Factory tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Spikes_II" l="0">Long Life Spikes\n\nIncreases spike lifespan by 10%</T>
-	<T id="LOC_SPEC_Spikes_III" l="0">Tick-Tack\n\nGenerates one free road spike pile every round</T>
-	<T id="LOC_SPEC_Spikes_IV" l="0">Tack Awesomizer\n\nAll spikes and balls from the Spike Factory pop 50% more bloons</T>
-	<T id="LOC_SPEC_Spikes_X" l="0">Increases the cost of Tack Shooters and upgrades by 5%</T>
+	<T id="LOC_SPEC_Spikes_I" l="0">Zmniejsza koszt wieży i ulepszeń Fabryki Kolców o 5%</T>
+	<T id="LOC_SPEC_Spikes_II" l="0">Kolce o Długiej Żywotności\n\nZwiększa żywotność kolców o 10%</T>
+	<T id="LOC_SPEC_Spikes_III" l="0">Tykanie-Tkanie\n\nGeneruje jedną darmową stertę kolców drogowych co rundę</T>
+	<T id="LOC_SPEC_Spikes_IV" l="0">Kolcowy Ulepszacz\n\nWszystkie kolce i kule z Fabryki Kolców przebijają o 50% więcej balonów</T>
+	<T id="LOC_SPEC_Spikes_X" l="0">Zwiększa koszt Wieżyczek z Kolcami i ulepszeń o 5%</T>
 		
 	<T id="LOC_SPEC_Super" l="0">Legowisko Super Małpki</T>
-	<T id="LOC_SPEC_Super_CAPS" l="0">SUPER MONKEY LAIR</T>
-	<T id="LOC_SPEC_Super_I" l="0">Reduces Super Monkey tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Super_II" l="0">Super Eyes\n\nIncreases range by 10%</T>
-	<T id="LOC_SPEC_Super_III" l="0">Ultravision\n\nSuper Monkeys can detect Camo</T>
-	<T id="LOC_SPEC_Super_IV" l="0">Heroic Aura\n\nReduces cost of towers and upgrades in range of a Super Monkey by 5%.</T>
-	<T id="LOC_SPEC_Super_X" l="0">Increases the cost of Monkey Apprentices and upgrades by 5%</T>
+	<T id="LOC_SPEC_Super_CAPS" l="0">LEGOWISKO SUPER MAŁPKI</T>
+	<T id="LOC_SPEC_Super_I" l="0">Zmniejsza koszt wieży i ulepszeń Super Małpy o 5%</T>
+	<T id="LOC_SPEC_Super_II" l="0">Super Oczy\n\nZwiększa zasięg o 10%</T>
+	<T id="LOC_SPEC_Super_III" l="0">Ultrawizja\n\nSuper Małpy mogą wykrywać Kamo</T>
+	<T id="LOC_SPEC_Super_IV" l="0">Heroiczna Aura\n\nZmniejsza koszt wież i ulepszeń w zasięgu Super Małpy o 5%</T>
+	<T id="LOC_SPEC_Super_X" l="0">Zwiększa koszt Uczniów Małpy i ulepszeń o 5%</T>
 		
-	<T id="LOC_SPEC_Tack" l="0">Tack Research Center</T>
-	<T id="LOC_SPEC_Tack_CAPS" l="0">TACK RESEARCH CENTER</T>
-	<T id="LOC_SPEC_Tack_I" l="0">Reduces Tack Shooter tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Tack_II" l="0">Fast Tack Attacks\n\nIncreases attack speed by 10%</T>
-	<T id="LOC_SPEC_Tack_III" l="0">Poppy Shots\n\nAttacks get +1 pierce</T>
-	<T id="LOC_SPEC_Tack_IV" l="0">Hot Shots\n\nHeated shots melt through Lead, and Ring of Fire leaves bloons burning</T>
-	<T id="LOC_SPEC_Tack_X" l="0">Increases the cost of Bomb Shooters and upgrades by 5%</T>
+	<T id="LOC_SPEC_Tack" l="0">Centrum Badawcze Kolców</T>
+	<T id="LOC_SPEC_Tack_CAPS" l="0">CENTRUM BADAWCZE KOLCÓW</T>
+	<T id="LOC_SPEC_Tack_I" l="0">Zmniejsza koszt wieży i ulepszeń Wieżyczki z Kolcami o 5%</T>
+	<T id="LOC_SPEC_Tack_II" l="0">Szybkie Ataki Kolcowe\n\nZwiększa prędkość ataku o 10%</T>
+	<T id="LOC_SPEC_Tack_III" l="0">Przebijające Strzały\n\nAtaki zyskują +1 przebicia</T>
+	<T id="LOC_SPEC_Tack_IV" l="0">Gorące Strzały\n\nRozgrzane strzały topią ołów, a Pierścień Ognia zostawia płonące balony</T>
+	<T id="LOC_SPEC_Tack_X" l="0">Zwiększa koszt Wieżyczek Bombowych i ulepszeń o 5%</T>
 	
 	
 	
@@ -3791,10 +3790,10 @@ Visual change only.</T>
     <T id="LOC_DAILYQUEST_DESC_FIXED_upgradeComplete" l="0">Zdobądź nowy budynek specjalny lub go ulepsz</T>
    
   
-    <T id="LOC_DAILYQUEST_DESC_POPBLOONS_BASIC" l="0">Popuj %1$s Bloonów</T>                          <!--e.g. Pop 1,000 Bloons-->
-    <T id="LOC_DAILYQUEST_DESC_POPBLOONS_OF_TYPE" l="0">Popuj %1$s %2$s</T>                          <!--e.g. Pop 1,000 Ceramic Bloons-->
-    <T id="LOC_DAILYQUEST_DESC_POPBLOONS_WITHTOWER" l="0">Popuj %1$s Bloonów używając %2$s</T>            <!--e.g. Pop 1,000 Bloons with Boomerang Monkey-->
-    <T id="LOC_DAILYQUEST_DESC_POPBLOONS_OF_TYPE_WITHTOWER" l="0">Popuj %1$s %2$s używając %3$s</T>      <!--e.g. Pop 1,000 Lead Bloons with Super Monkey-->
+    <T id="LOC_DAILYQUEST_DESC_POPBLOONS_BASIC" l="0">Zniszcz %1$s Bloonów</T>                          <!--e.g. Pop 1,000 Bloons-->
+    <T id="LOC_DAILYQUEST_DESC_POPBLOONS_OF_TYPE" l="0">Zniszcz %1$s %2$s</T>                          <!--e.g. Pop 1,000 Ceramic Bloons-->
+    <T id="LOC_DAILYQUEST_DESC_POPBLOONS_WITHTOWER" l="0">Zniszcz %1$s Bloonów używając %2$s</T>            <!--e.g. Pop 1,000 Bloons with Boomerang Monkey-->
+    <T id="LOC_DAILYQUEST_DESC_POPBLOONS_OF_TYPE_WITHTOWER" l="0">Zniszcz %1$s %2$s używając %3$s</T>      <!--e.g. Pop 1,000 Lead Bloons with Super Monkey-->
     <T id="LOC_DAILYQUEST_DESC_COLLECTFROMTOWER" l="0">Zbierz %1$s Pieniędzy używając %2$s</T>            <!--e.g. Collect 10,000 Cash from Monkey Engineer-->
     
     <T id="LOC_DAILYQUEST_DESC_COLLECTFROMFARMS" l="0">Zbierz %s Pieniędzy z Farm</T>             <!--e.g. Collect 10,000 Cash from Farms-->
@@ -3917,7 +3916,6 @@ Collect enough totems and win amazing prizes including Monkey Money and special 
 	<T id="LOC_BLOONHUNTEVENT_INFODESC_Golden" l="0">Ambusz na DDT jest przygotowywany! Ciemny Tytanowy Sterowiec niesie paczki z Małpią Gotówką do zebrania, gdy zostanie uszkodzony. Zniszcz go całkowicie, aby otrzymać dużą wypłatę!
 
 Szukaj DDT obok nazwy trasy, aby dowiedzieć się, gdzie DDT przygotowuje swój ambusz! Graj na tej trasie na dowolnym poziomie trudności i czekaj, aż pojawi się DDT. Wyższy poziom trudności oznacza lepsze nagrody!</T>
-
    
    <T id="LOC_BLOONHUNTEVENT_BUTTON_Golden" l="0">AMBUSZ DDT</T>
    
@@ -4759,54 +4757,55 @@ Jeśli już tego nie zrobiłeś, dołącz do mojego serwera Discord aby sprawdza
 	<T id="LOC_SPEC_SpikeShack_IV" l="0">Perma-Gwoździe\n\nDrogowe Gwoździe nie znikają na koniec rundy</T>
 	<T id="LOC_SPEC_SpikeShack_X" l="0">Zwiększa koszt Wybuchających Ananasów o $5</T>
 
-	<T id="LOC_SPEC_PineappleGrill" l="0">Pineapple Stand</T>
-	<T id="LOC_SPEC_PineappleGrill_CAPS" l="0">PINEAPPLE STAND</T>
-	<T id="LOC_SPEC_PineappleGrill_I" l="0">Reduces Exploding Pineapple cost by $5</T>
-	<T id="LOC_SPEC_PineappleGrill_II" l="0">Mega Pineapples\n\nPineapples have a 50% greater explosion radius and pop 50% more bloons</T>
-	<T id="LOC_SPEC_PineappleGrill_III" l="0">Hot in the Middle\n\nPineapple explosions leave bloons burning for 2 seconds</T>
-	<T id="LOC_SPEC_PineappleGrill_IV" l="0">Grilled Pineapples\n\nPineapples take 1 second to explode and pop 2 layers of bloon</T>
-	<T id="LOC_SPEC_PineappleGrill_X" l="0">Increases the cost of Road Spikes by $5</T>
+	<T id="LOC_SPEC_PineappleGrill" l="0">Stoisko z Ananasami</T>
+	<T id="LOC_SPEC_PineappleGrill_CAPS" l="0">STOISKO Z ANANASAMI</T>
+	<T id="LOC_SPEC_PineappleGrill_I" l="0">Zmniejsza koszt Wybuchającego Ananasa o $5</T>
+	<T id="LOC_SPEC_PineappleGrill_II" l="0">Mega Ananasy\n\nAnanasy mają o 50% większy promień wybuchu i niszczą o 50% więcej bloonów</T>
+	<T id="LOC_SPEC_PineappleGrill_III" l="0">Gorący Środek\n\nWybuchy ananasów podpalają bloony na 2 sekundy</T>
+	<T id="LOC_SPEC_PineappleGrill_IV" l="0">Grillowane Ananasy\n\nAnanasy wybuchają po 1 sekundzie i niszczą 2 warstwy bloonów</T>
+	<T id="LOC_SPEC_PineappleGrill_X" l="0">Zwiększa koszt Drogowych Gwoździ o $5</T>
 
-	<T id="LOC_SPEC_Adhesive" l="0">Adhesive Testing Lab</T>
-	<T id="LOC_SPEC_Adhesive_CAPS" l="0">ADHESIVE TESTING LAB</T>
-	<T id="LOC_SPEC_Adhesive_I" l="0">Reduces Monkey Glue cost by $5</T>
-	<T id="LOC_SPEC_Adhesive_II" l="0">Lots of Glue\n\nMonkey Glue slows bloons down to 25% speed.</T>
-	<T id="LOC_SPEC_Adhesive_III" l="0">Extra Sticky Substance\n\nMonkey Glue soaks through 3 layers of bloon.</T>
-	<T id="LOC_SPEC_Adhesive_IV" l="0">Monkey Acid\n\nRapidly pops any bloons it touches.</T>
-	<T id="LOC_SPEC_Adhesive_X" l="0">Increases the cost of Bloonberry Bushes and upgrades by 5%</T>
+	<T id="LOC_SPEC_Adhesive" l="0">Laboratorium Testów Kleju</T>
+	<T id="LOC_SPEC_Adhesive_CAPS" l="0">LABORATORIUM TESTÓW KLEJU</T>
+	<T id="LOC_SPEC_Adhesive_I" l="0">Zmniejsza koszt Małpiego Kleju o $5</T>
+	<T id="LOC_SPEC_Adhesive_II" l="0">Dużo Kleju\n\nMałpi Klej spowalnia bloony do 25% prędkości.</T>
+	<T id="LOC_SPEC_Adhesive_III" l="0">Ekstra Lepka Substancja\n\nMałpi Klej przenika przez 3 warstwy bloonów.</T>
+	<T id="LOC_SPEC_Adhesive_IV" l="0">Małpia Kwasówka\n\nSzybko niszczy każdy bloon, którego dotknie.</T>
+	<T id="LOC_SPEC_Adhesive_X" l="0">Zwiększa koszt Krzewów Bloonówek i ich ulepszeń o 5%</T>
 
 	<T id="LOC_SPEC_Farm" l="0">Bananeria</T>
 	<T id="LOC_SPEC_Farm_CAPS" l="0">BANANERIA</T>
-	<T id="LOC_SPEC_Farm_I" l="0">Zmniejsza koszt wieżyczki i ulepszeń Farmy Bananów o 5%</T>
+	<T id="LOC_SPEC_Farm_I" l="0">Zmniejsza koszt Farm Bananów i ich ulepszeń o 5%</T>
 	<T id="LOC_SPEC_Farm_II" l="0">Replikator Bananów\n\nZwiększa gotówkę z bananów i banków o 10%</T>
 	<T id="LOC_SPEC_Farm_III" l="0">Mikrorolnictwo\n\nFarmy Bananów zajmują 25% mniej miejsca</T>
-	<T id="LOC_SPEC_Farm_IV" l="0">Zdrowe Banany\n\nValuable Bananas upgrade adds 1 life per round</T>
+	<T id="LOC_SPEC_Farm_IV" l="0">Zdrowe Banany\n\nValuable Bananas upgrade dodaje 1 życie na rundę</T> <!--TODO-->
 	<T id="LOC_SPEC_Farm_X" l="0">Zwiększa koszt Małpich Wiosek i ich ulepszeń o 5%</T>
-	
-	<T id="LOC_SPEC_Village" l="0">Town Hall</T>
-	<T id="LOC_SPEC_Village_CAPS" l="0">TOWN HALL</T>
-	<T id="LOC_SPEC_Village_I" l="0">Reduces Monkey Village tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Village_II" l="0">Monkey Business\n\nIncreases the strength of Monkey Village buffs by 50%</T>
-	<T id="LOC_SPEC_Village_III" l="0">Bigger Beacons\n\nEach Monkey Village has a significantly larger range of influence</T>
-	<T id="LOC_SPEC_Village_IV" l="0">Tribal Warfare\n\nSpawns three random low-level living towers (Activated Ability)</T>
-	<T id="LOC_SPEC_Village_X" l="0">Increases the cost of Banana Farms and upgrades by 5%</T>
-	
-	<T id="LOC_SPEC_Apiary" l="0">Barry's Apiary</T>
-	<T id="LOC_SPEC_Apiary_CAPS" l="0">Barry's Apiary</T>
-	<T id="LOC_SPEC_Apiary_I" l="0">Reduces Beekeeper tower and upgrade cost by 5%</T>
-	<T id="LOC_SPEC_Apiary_II" l="0">Improved Aviation\n\nIncreases range by 10%</T>
-	<T id="LOC_SPEC_Apiary_III" l="0">Hotheaded Bees\n\nBees can target and pop Lead.</T>
-	<T id="LOC_SPEC_Apiary_IV" l="0">Thinking Bee\n\nBees swarm around the Beekeeper, damaging any bloons that come near.</T>
-	<T id="LOC_SPEC_Apiary_X" l="0">Increases the cost of Spike Ball Shooters and upgrades by 5%</T>
+
+	<T id="LOC_SPEC_Village" l="0">Ratusz</T>
+	<T id="LOC_SPEC_Village_CAPS" l="0">RATUSZ</T>
+	<T id="LOC_SPEC_Village_I" l="0">Zmniejsza koszt Małpich Wiosek i ich ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Village_II" l="0">Małpi Biznes\n\nZwiększa siłę wzmocnień Małpich Wiosek o 50%</T>
+	<T id="LOC_SPEC_Village_III" l="0">Większe Latarnie\n\nKażda Małpia Wioska ma znacznie większy zasięg wpływów</T>
+	<T id="LOC_SPEC_Village_IV" l="0">Plemię Wojowników\n\nTworzy trzy losowe niskopoziomowe żywe wieże (Aktywowalna Zdolność)</T>
+	<T id="LOC_SPEC_Village_X" l="0">Zwiększa koszt Farm Bananów i ich ulepszeń o 5%</T>
+
+	<T id="LOC_SPEC_Apiary" l="0">Pasieka Barry'ego</T>
+	<T id="LOC_SPEC_Apiary_CAPS" l="0">PASIEKA BARRY'EGO</T>
+	<T id="LOC_SPEC_Apiary_I" l="0">Zmniejsza koszt Pszczelarza i jego ulepszeń o 5%</T>
+	<T id="LOC_SPEC_Apiary_II" l="0">Ulepszona Awionika\n\nZwiększa zasięg o 10%</T>
+	<T id="LOC_SPEC_Apiary_III" l="0">Rozgrzane Pszczoły\n\nPszczoły mogą atakować i niszczyć Ołów.</T>
+	<T id="LOC_SPEC_Apiary_IV" l="0">Myśląca Pszczoła\n\nPszczoły krążą wokół Pszczelarza, uszkadzając każdy bloon, który się zbliży.</T>
+	<T id="LOC_SPEC_Apiary_X" l="0">Zwiększa koszt Strzelacza Kul i ich ulepszeń o 5%</T>
+
 	
 	<!-- Added Daily Quest Strings -->
 	
-    <T id="LOC_DAILYQUEST_DESC_StickyGlue" l="0">Popuj 1000 bloonów używając Strzelca Kleju</T>
-    <T id="LOC_DAILYQUEST_DESC_thebigshred" l="0">Popuj 100 bloonów klasy MOAB używając Bloonorębarki</T>
-    <T id="LOC_DAILYQUEST_DESC_stunGun" l="0">Popuj 100 bloonów klasy MOAB z 4-X Małpimi Snajperami</T>
+    <T id="LOC_DAILYQUEST_DESC_StickyGlue" l="0">Zniszcz 1000 bloonów używając Strzelca Kleju</T>
+    <T id="LOC_DAILYQUEST_DESC_thebigshred" l="0">Zniszcz 100 bloonów klasy MOAB używając Bloonorębarki</T>
+    <T id="LOC_DAILYQUEST_DESC_stunGun" l="0">Zniszcz 100 bloonów klasy MOAB z 4-X Małpimi Snajperami</T>
 
     <T id="LOC_DAILYQUEST_NAME_apexpower" l="0">OSIĄGNIĘTO SZCZYTOWĄ MOC</T>
-    <T id="LOC_DAILYQUEST_DESC_apexpower" l="0">Popuj 1 million Bloonów przy użyciu 2-2 lub lepszych Urządzeń Bloonokalipsy</T>
+    <T id="LOC_DAILYQUEST_DESC_apexpower" l="0">Zniszcz 1 million Bloonów przy użyciu 2-2 lub lepszych Urządzeń Bloonokalipsy</T>
 
     <T id="LOC_DAILYQUEST_NAME_monkeygearsolid" l="0">Małpi Sprzęt Solidny</T>
 
