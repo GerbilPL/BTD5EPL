@@ -4,7 +4,7 @@ Version Genesis:
  - [ ] Main menu
    - [x] Premium Store
    - [x] Settings
-   - [ ] Buildings
+   - [x] Buildings
    - [x] Chest
    - [x] Mailman
    - [ ] BTD5 Sign
