@@ -1,6 +1,6 @@
 # Translation progress for Expansion 12
 
-Version Genesis:
+Version Harapan:
  - [ ] Main menu
    - [x] Premium Store
    - [x] Settings
