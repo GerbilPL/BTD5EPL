@@ -1,6 +1,6 @@
 POLSKI:
 
-Pliki spolszczenia dla BTD5 4.4 i BTD5 Expansion 12. Wersja: Genesis
+Pliki spolszczenia dla BTD5 4.4 i BTD5 Expansion 12. Wersja: Harapan
 
 Zasługi: Shaiko - modyfikacja do BTD5, GerbilPL - główny tłumacz, pelletsstarPL - pomoc w tłumaczeniu, cosmo - pomoc w tłumaczeniu
 
@@ -15,7 +15,7 @@ Jak zainstalować:
 
 ENGLISH:
 
-Polish translation files for BTD5 4.4 and BTD5 Expansion 12. Version: Genesis
+Polish translation files for BTD5 4.4 and BTD5 Expansion 12. Version: Harapan
 
 Credits: Shaiko - BTD5 mod, GerbilPL - main translator, pelletsstarPL - translation help, cosmo - translation help
 
